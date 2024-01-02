@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>EAGER</a>: Event dataset of an AGile lEgged Robot
 
 # profile:
 #   align: right

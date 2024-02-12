@@ -10,25 +10,28 @@ nav_order: 5
 # Data Sequence
 
 
+<div class="image-container">
+  ![Image 1](https://daroslab.github.io/EAGER/assets/img/publication_preview/brownian-motion.gif)
+  ![Image 2](https://daroslab.github.io/EAGER/assets/img/publication_preview/brownian-motion.gif)
+</div>
 
-![Image 1](https://daroslab.github.io/EAGER/assets/img/publication_preview/brownian-motion.gif)
 - Description for Image 1, Line 1.
 - Description for Image 1, Line 2.
 - Description for Image 1, Line 3.
 
-![Image 2](https://daroslab.github.io/EAGER/assets/img/publication_preview/brownian-motion.gif)
 - Description for Image 2, Line 1.
 - Description for Image 2, Line 2.
 - Description for Image 2, Line 3.
 
+<div class="image-container">
+  ![Image 1](https://daroslab.github.io/EAGER/assets/img/publication_preview/brownian-motion.gif)
+  ![Image 1](https://daroslab.github.io/EAGER/assets/img/publication_preview/brownian-motion.gif)
+</div>
 
-
-![Image 3](https://daroslab.github.io/EAGER/assets/img/publication_preview/brownian-motion.gif)
 - Description for Image 3, Line 1.
 - Description for Image 3, Line 2.
 - Description for Image 3, Line 3.
 
-![Image 4](https://daroslab.github.io/EAGER/assets/img/publication_preview/brownian-motion.gif)
 - Description for Image 4, Line 1.
 - Description for Image 4, Line 2.
 - Description for Image 4, Line 3.

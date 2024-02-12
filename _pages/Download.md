@@ -36,4 +36,4 @@ nav_order: 5
 - Description for Image 4, Line 2.
 - Description for Image 4, Line 3.
 
-
+  ![Image 1](https://daroslab.github.io/EAGER/assets/img/publication_preview/brownian-motion.gif)

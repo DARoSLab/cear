@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
+description: [download likne](https://daroslab.github.io/EAGER/assets/img/publication_preview/brownian-motion.gif)
 img: assets/img/publication_preview/brownian-motion.gif
 importance: 1
 category: work

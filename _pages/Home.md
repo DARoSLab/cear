@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>EAGER</a>. Event dataset of an AGile lEgged Robot
+subtitle: <a href='#'>EAGER</a>. Event dataset of an AGile-legged Robot
 
 # profile:
 #   align: right
@@ -19,7 +19,11 @@ latest_posts: true  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 
-Test if the framework works normally.
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+The initial SLAM benchmark datasets for legged robots meet the following stringent criteria:
+
+- Acquired using a comprehensive, hardware-synchronized sensor suite mounted on a mini-cheetah-legged robot. The suite includes an event stereo camera, a conventional stereo camera, an RGB-D sensor, a LiDAR, IMU, and joint angle sensors.
+
+- Encompassing a broad range of motion dynamics, environmental complexities, illumination conditions, and control algorithms.
+
+- Providing accurate ground truth indoor pose information.

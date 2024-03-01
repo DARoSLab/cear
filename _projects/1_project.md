@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: project 1
+title: Around building
+description: Data Collected around the building LGRC
 img: assets/img/publication_preview/brownian-motion.gif
 importance: 1
 category: work

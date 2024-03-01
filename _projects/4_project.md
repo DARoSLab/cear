@@ -4,7 +4,7 @@ title: Downtown (small round)
 description: Data gathered within the downtown area, albeit within a limited scope.
 img:
 importance: 4
-category: dataset
+category: dataset2
 ---
 
 - [Day Time (combination)](https://drive.google.com/file/d/1nBIDeRC0Umox0lO-pYiuBGe6_igb4es-/view?usp=drive_link)

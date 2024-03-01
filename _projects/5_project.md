@@ -3,7 +3,7 @@ layout: page
 title: Parking Lot
 description: Data collected in the parking lot
 img: assets/img/publication_preview/brownian-motion.gif
-importance: 1
+importance: 2
 category: dataset3
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Downtown (small round)
 description: Data gathered within the downtown area, albeit within a limited scope.
-img:
+img:  assets/img/publication_preview/brownian-motion.gif
 importance: 1
 category: dataset2
 ---

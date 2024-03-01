@@ -3,8 +3,8 @@ layout: page
 title: Park
 description: Data collected in the Park 
 img: assets/img/publication_preview/brownian-motion.gif
-importance: 1
-category: dataset4
+importance: 3
+category: dataset3
 ---
 
 - [Day Time (combination)](https://drive.google.com/file/d/1E5_m09Ny2-BVRFAj0iPjTn8eb0SvAohL/view?usp=drive_link)

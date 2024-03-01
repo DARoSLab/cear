@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://daroslab.github.io/EAGER/EAGER/sitemap.xml
+Sitemap: https://daroslab.github.io/EAGLE/EAGLE/sitemap.xml

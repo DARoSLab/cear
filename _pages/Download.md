@@ -5,7 +5,7 @@ title: Download
 description: On this page, you can download the benchmark data as rosbag or use our toolbox to select data topics you are interested in to create customized data.
 nav: true
 nav_order: 5
-display_categories: [dataset1, dataset2]
+display_categories: [dataset1, dataset2, dataset3]
 horizontal: false
 ---
   

@@ -3,7 +3,7 @@ layout: page
 title: Grass
 description: Data collected in the grass
 img: assets/img/publication_preview/brownian-motion.gif
-importance: 3
+importance: 2
 category: dataset2
 ---
 

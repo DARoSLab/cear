@@ -4,7 +4,7 @@ title: Between LGRC building
 description: Data collected between the LGRC building
 img: assets/img/publication_preview/brownian-motion.gif
 importance: 2
-category: dataset
+category: dataset1
 ---
 
 - [Day Time (combination)](https://drive.google.com/file/d/1ik_XYbhM6yClPClOhmUNeao4b0g4P_O3/view?usp=sharing)

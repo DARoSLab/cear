@@ -4,7 +4,7 @@ title: Downtown
 description: Data collected in downtown
 img: assets/img/publication_preview/brownian-motion.gif
 importance: 3
-category: dataset
+category: dataset1
 ---
 
 

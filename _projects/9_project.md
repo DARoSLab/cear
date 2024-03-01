@@ -4,7 +4,7 @@ title: Resident Area
 description: Data collected in the Resident Area
 img: assets/img/publication_preview/brownian-motion.gif
 importance: 3
-category: dataset3
+category: dataset2
 ---
 
 - [Day Time (combination)](https://drive.google.com/file/d/1qM1LoNiNq33dzErHsoPnAmyGZqkCfPAO/view?usp=drive_link)

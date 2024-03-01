@@ -21,8 +21,14 @@ social: true  # includes social icons at the bottom of the page
 
 
 The initial SLAM benchmark datasets for legged robots meet the following stringent criteria:
-
-![EAGER Benchmark Data](https://daroslab.github.io/EAGER/assets/img/cover.png)  
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    EAGER Benchmark Data
+</div>
 - Acquired using a comprehensive, hardware-synchronized sensor suite mounted on a mini-cheetah-legged robot. The suite includes an event stereo camera, a conventional stereo camera, an RGB-D sensor, a LiDAR, IMU, and joint angle sensors.
 
 - Encompassing a broad range of motion dynamics, environmental complexities, illumination conditions, and control algorithms.

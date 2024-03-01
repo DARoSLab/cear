@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Between LGRC building
-description:Data collected between the LGRC building
+description: Data collected between the LGRC building
 img: assets/img/publication_preview/brownian-motion.gif
 importance: 2
 category: dataset

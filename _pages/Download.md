@@ -13,20 +13,20 @@ horizontal: true
 ---
 ## Indoor scequences
 ---
-#### mocap_env1_trot    Data(4.95GB)    GT_Pose
-![Figure 1]("assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif") ![Figure 2](assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+##### mocap_env1_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(4.95GB)](https://drive.google.com/file/d/1BGD_9tUYrxLmVhRj3dp_Tz5M5Fj--__2/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+![Figure 1]("https://github.com/DARoSLab/EAGLE/blob/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif") ![Figure 2](https://github.com/DARoSLab/EAGLE/blob/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
 
-#### mocap_env1_trot    Data(4.95GB)    GT_Pose
+##### mocap_env1_trot    Data(4.95GB)    GT_Pose
 
-#### mocap_env1_trot    Data(4.95GB)    GT_Pose
+##### mocap_env1_trot    Data(4.95GB)    GT_Pose
 
-#### mocap_env1_trot    Data(4.95GB)    GT_Pose
+##### mocap_env1_trot    Data(4.95GB)    GT_Pose
 
-#### mocap_env1_trot    Data(4.95GB)    GT_Pose
+##### mocap_env1_trot    Data(4.95GB)    GT_Pose
 
-#### mocap_env1_trot    Data(4.95GB)    GT_Pose
+##### mocap_env1_trot    Data(4.95GB)    GT_Pose
 
-#### mocap_env1_trot    Data(4.95GB)    GT_Pose
+##### mocap_env1_trot    Data(4.95GB)    GT_Pose
 
 ---
 ## Outdoor scequences

@@ -11,6 +11,8 @@ parking_lot_day, parking_lot_night, resident_area_day, resident_area_night, side
 display_categories2: [dataset3, dataset4]
 horizontal: true
 ---
+## Indoor scequences
+---
   
 <!-- pages/projects.md -->
 <div class="projects">

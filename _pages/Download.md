@@ -15,7 +15,7 @@ horizontal: true
 ---
 ##### mocap_env1_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(4.95GB)](https://drive.google.com/file/d/1BGD_9tUYrxLmVhRj3dp_Tz5M5Fj--__2/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 
-![Figure 1](https://www.presentermedia.com/powerpoint-animation/arrow-elevator-up-runner-pid-5744) ![Figure 2](https://www.presentermedia.com/powerpoint-animation/arrow-elevator-up-runner-pid-5744)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
 
 ##### mocap_env1_trot    Data(4.95GB)    GT_Pose
 

@@ -12,9 +12,9 @@ horizontal: false
   
 <!-- pages/projects.md -->
 <div class="projects">
-  <div style="text-align: center;">
-  <p>Indoor</p>
-</div>
+  <div style="text-align: center; font-size: 24px;">
+    <p>Indoor</p>
+  </div>
 
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -65,11 +65,11 @@ horizontal: false
 
 <!-- pages/projects.md -->
 <div class="projects">
-  <div style="text-align: center;">
-  <p>Outdoor</p>
-</div>
+  <div style="text-align: center; font-size: 24px;">
+    <p>Outdoor</p>
+  </div>
 
-{%- if site.enable_project_categories and page.display_categories %}
+{%- if site.enable_project_categories and page.display_categories2 %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories2 %}
   <h2 class="category">{{ category }}</h2>

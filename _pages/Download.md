@@ -9,7 +9,7 @@ display_categories: [around_building_day, around_building_night, between_buildin
 between_buildings_night, downtown1_day, downtown1_nignt, downtown2_day, downtown2_night, forest_day, forest_night, grass_day, grass_night, 
 parking_lot_day, parking_lot_night, resident_area_day, resident_area_night, sidewalk2_day, sidewalk2_night, sidewalk1_day, sidewalk1_night]
 display_categories2: [dataset3, dataset4]
-horizontal: false
+horizontal: true
 ---
   
 <!-- pages/projects.md -->

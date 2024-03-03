@@ -14,7 +14,7 @@ horizontal: true
 ## Indoor scequences
 ---
 #### mocap_env1_trot    Data(4.95GB)    GT_Pose
-
+![Figure 1]("assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif") ![Figure 2](assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
 
 #### mocap_env1_trot    Data(4.95GB)    GT_Pose
 

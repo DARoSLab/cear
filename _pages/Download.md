@@ -17,7 +17,8 @@ horizontal: true
 
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
 
-##### mocap_env1_trot    Data(4.95GB)    GT_Pose
+##### mocap_env1_dark_trot    [Data(5.6GB)](https://drive.google.com/drive/folders/1Px7eEoJTiH0b44fHcex1O6TRuthmJ_ky?usp=drive_link)    &nbsp;&nbsp;&nbsp;&nbsp;; GT_Pose
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
 
 ##### mocap_env1_trot    Data(4.95GB)    GT_Pose
 

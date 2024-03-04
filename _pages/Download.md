@@ -57,7 +57,24 @@ horizontal: true
 
 
 
-##### mocap_env2_blinking_comb   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(6.79GB)]()   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+##### mocap_env3_trot  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(5.77GB)](https://drive.google.com/file/d/1jgbOlbcmgtZIh7B_oy0DDQgVZO6Y55rz/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+
+##### mocap_env3_comb   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(8.09GB)](https://drive.google.com/file/d/1HIyYoeVVZG4XnAAUYngqIHNBSlsTh_zW/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+
+##### mocap_env3_dark_trot  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(5.3GB)](https://drive.google.com/file/d/1883jSENIdaZckOdWMNEoL0krN51LqBFc/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+
+##### mocap_env3_dark_comb   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(8.09GB)](https://drive.google.com/file/d/1HIyYoeVVZG4XnAAUYngqIHNBSlsTh_zW/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+
+##### mocap_env3_blinking_trot  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(5.82GB)](https://drive.google.com/file/d/1nRDREfMo1dAmKKjZwevVbLNgpYeW1-JG/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+
+##### mocap_env3_blinking_comb   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(7.43GB)](https://drive.google.com/file/d/1Df9-Xi75YhEjwMa4jV91V0aclqA0faHF/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+
 
 ---
 ## Outdoor scequences

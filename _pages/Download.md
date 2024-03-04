@@ -17,6 +17,11 @@ horizontal: true
 
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
 
+
+##### mocap_env1_comb    [Data(9.16GB)](https://drive.google.com/file/d/11WOnzdbziy5FDo6UnJrjM8Kd-H-3-1lU/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp;   GT_Pose
+
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+
 ##### mocap_env1_dark_trot    [Data(5.6GB)](https://drive.google.com/drive/folders/1Px7eEoJTiH0b44fHcex1O6TRuthmJ_ky?usp=drive_link)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
 
@@ -24,14 +29,10 @@ horizontal: true
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
 
 
-##### mocap_env1_comb    [Data(9.16GB)](https://drive.google.com/file/d/11WOnzdbziy5FDo6UnJrjM8Kd-H-3-1lU/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp;   GT_Pose
-
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
-
 ##### mocap_env1_blinking_trot    [Data(4.35GB)](https://drive.google.com/file/d/1wbFXGdfR-bmmiUjUgGQfs9vrY43Kj1Nn/view?usp=drive_link)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  GT_Pose
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
 
-##### mocap_env1_blinking_trot    [Data(6.24GB)](https://drive.google.com/file/d/1wbFXGdfR-bmmiUjUgGQfs9vrY43Kj1Nn/view?usp=drive_link)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  GT_Pose
+##### mocap_env1_blinking_comb    [Data(6.24GB)](https://drive.google.com/file/d/1wbFXGdfR-bmmiUjUgGQfs9vrY43Kj1Nn/view?usp=drive_link)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  GT_Pose
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
 
 ##### mocap_env1_trot    Data(4.95GB)    GT_Pose

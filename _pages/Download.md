@@ -75,7 +75,14 @@ horizontal: true
 ##### mocap_env3_blinking_comb   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(7.43GB)](https://drive.google.com/file/d/1Df9-Xi75YhEjwMa4jV91V0aclqA0faHF/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
 
-
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    ![左边的图片]([path/to/left/image.jpg](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif))
+  </div>
+  <div style="flex: 1; text-align: right;">
+    ![右边的图片](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+  </div>
+</div>
 ---
 ## Outdoor scequences
 ---

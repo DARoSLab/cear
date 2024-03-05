@@ -5,10 +5,8 @@ title: Download
 description: On this page, you can download the benchmark data as rosbag or use our toolbox to select data topics you are interested in to create customized data.
 nav: true
 nav_order: 5
-display_categories3: [around_building_day, around_building_night, between_buildings_day, 
-between_buildings_night, downtown1_day, downtown1_nignt, downtown2_day, downtown2_night, forest_day, forest_night, grass_day, grass_night, 
-parking_lot_day, parking_lot_night, resident_area_day, resident_area_night, sidewalk2_day, sidewalk2_night, sidewalk1_day, sidewalk1_night]
-display_categories4: [dataset3, dataset4]
+display_categories2: []
+display_categories3: []
 horizontal: true
 ---
 ## Indoor scequences

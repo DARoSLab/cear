@@ -73,17 +73,6 @@ horizontal: true
 ##### mocap_env3_blinking_comb   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(7.43GB)](https://drive.google.com/file/d/1Df9-Xi75YhEjwMa4jV91V0aclqA0faHF/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 ---
 ## Outdoor scequences
 ---

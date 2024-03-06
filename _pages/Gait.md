@@ -12,10 +12,11 @@ horizontal: false
 ## Legged robot gaits
 ---
 #### Trot gait
-![Trot gait GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/trot_with_text.gif)
-![Trot gait video](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/trot_with_text.mp4)
+![Trot gait](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/trot.gif)
 ---
 #### Bounding gait
+![Bounding gait](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/bounding.gif)
 ---
 #### Pronking gait
+![Pronking gait](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/pronking.gif)
 

@@ -1,13 +1,23 @@
 ---
 layout: page
-title: Synchronization
-permalink: /Synchronization/
-description: A growing collection of your cool projects.
+title: Gaits
+permalink: /Gaits/
+description: Demonstration of different robot gaits.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
+## Legged robot gaits
+---
+#### Trot gait
+---
+#### Bounding gait
+---
+#### Pronking gait
+
+<!-- 
 
 
 <div class="row">
@@ -17,4 +27,4 @@ horizontal: false
 </div>
 <div class="caption">
     EAGER Benchmark Data
-</div>
+</div> -->

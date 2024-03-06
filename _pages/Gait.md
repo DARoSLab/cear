@@ -28,14 +28,14 @@ horizontal: false
     <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/gait.png" width="100%" style="vertical-align: top;"/>
 </div>
 
-### Trot Gait
-The trot gait involves diagonal legs moving together, offering a mix of speed and stability. It's efficient for steady movement and commonly used for moderate speeds.
+#### Trot Gait
+Trot gait involves diagonal legs moving together, offering a mix of speed and stability and producing clear, high-quality RGB images and point cloud data.
 
-### Bounding Gait
-Bounding propels forward with front and rear legs moving together, enabling rapid acceleration and high speeds, suitable for quick bursts of movement.
+#### Bounding Gait
+Bounding gait propels forward with front and rear legs moving together, enabling rapid angular velocities.
 
-### Pronking Gait
-Pronking sees all four legs moving in unison, enhancing visibility and field of view, often used by gazelles for signaling and to oversee tall grass.
+#### Pronking Gait
+Pronking gaits sees all four legs moving in unison, presenting high linear velocities.
 
-### Backflip Gait
-Backflips demonstrate agility with a 360-degree aerial flip, requiring precise control and strong actuation, mainly for acrobatics and showcasing athletic ability.
+#### Backflip Gait
+Backflips demonstrate agility with rotations up to $750~\si{\degree/\second}$, requiring precise control and strong actuation, mainly for acrobatics and showcasing athletic ability.

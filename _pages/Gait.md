@@ -25,9 +25,7 @@ horizontal: false
     <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/pronking.gif" width="24%" style="vertical-align: top;"/>
     <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/backflip.gif" width="24%" style="vertical-align: top;"/>
 </div>
-<div style="text-align: center; width: 100%; margin-top: 20px;">
-    <object data="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/gait.pdf" type="application/pdf" width="100%">
-        <p>Your browser does not support PDFs. <a href="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/gait.pdf">Download the PDF</a>.</p>
-    </object>
+<div style="text-align: center; width: 100%;">
+    <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/gait.png" width="100%" style="vertical-align: top;"/>
 </div>
 

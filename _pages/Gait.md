@@ -13,17 +13,24 @@ horizontal: false
 ---
 
 ### Trot gait
-<img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/trot.gif" width="1920" height="1080" alt="Trot gait"/>
+<div style="text-align: center">
+    <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/trot.gif" width="480" height="270" alt="Trot gait"/>
+</div>
 
 ---
 ### Bounding gait
-<img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/bounding.gif" width="1920" height="1080" alt="Bounding gait"/>
+<div style="text-align: center">
+    <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/bounding.gif" width="480" height="270" alt="Bounding gait"/>
+</div>
 
 ---
 ### Pronking gait
-<img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/pronking.gif" width="1920" height="1080" alt="Pronking gait"/>
+<div style="text-align: center">
+    <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/pronking.gif" width="480" height="270" alt="Pronking gait"/>
+</div>
 
 ---
 ### Backflip
-<img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/backflip.gif" width="1920" height="1080" alt="Backflip"/>
-
+<div style="text-align: center">
+    <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/backflip.gif" width="480" height="270" alt="Backflip"/>
+</div>

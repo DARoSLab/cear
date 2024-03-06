@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gaits
-permalink: /Gaits/
+title: Gait
+permalink: /Gait/
 nav: true
 nav_order: 3
 display_categories: [work, fun]
@@ -15,9 +15,9 @@ horizontal: false
 
 ### Trot gait &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bounding gait &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pronking gait &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backflip &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div style="text-align: center">
-    <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/trot.gif" width="200" height="200" alt="Trot gait" style="margin-right: 10px;"/>
-    <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/bounding.gif" width="200" height="200" alt="Bounding gait" style="margin-right: 10px;"/>
-    <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/pronking.gif" width="200" height="200" alt="Pronking gait" style="margin-right: 10px;"/>
-    <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/backflip.gif" width="200" height="200" alt="Backflip"/>
+    <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/trot.gif" width="160" height="90" alt="Trot gait" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/bounding.gif" width="160" height="90" alt="Bounding gait" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/pronking.gif" width="160" height="90" alt="Pronking gait" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/gait/backflip.gif" width="160" height="90" alt="Backflip"/>
 </div>
 

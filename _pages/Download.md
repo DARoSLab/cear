@@ -10,12 +10,12 @@ horizontal: true
 ## Indoor scequences
 ---
 ##### mocap_env1_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(4.95GB)](https://drive.google.com/file/d/1BGD_9tUYrxLmVhRj3dp_Tz5M5Fj--__2/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/mocap_trot_event.gif) ![RGB GIF] &nbsp;&nbsp;(https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/mocap_trot_rbg.gif)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/mocap_trot_event.gif) ![RGB GIF] &nbsp;(https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/mocap_trot_rbg.gif)
 
 
 ##### mocap_env1_comb   &nbsp;&nbsp;&nbsp;&nbsp; [Data(9.16GB)](https://drive.google.com/file/d/11WOnzdbziy5FDo6UnJrjM8Kd-H-3-1lU/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp;   GT_Pose
 
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/mocap_comb_event.gif) ![RGB GIF] &nbsp;&nbsp;(https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/mocap_comb_rgb.gif)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/mocap_comb_event.gif) ![RGB GIF] &nbsp;(https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/mocap_comb_rgb.gif)
 
 ##### mocap_env1_dark_trot  &nbsp;&nbsp;&nbsp;&nbsp;  [Data(5.6GB)](https://drive.google.com/drive/folders/1Px7eEoJTiH0b44fHcex1O6TRuthmJ_ky?usp=drive_link)    &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)

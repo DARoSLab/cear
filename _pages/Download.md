@@ -37,7 +37,7 @@ horizontal: true
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/8_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/8_rgb.gif)
 
 ##### mocap_env2_dark_trot  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(6.79GB)](https://drive.google.com/file/d/1TsKl31X4QFbeor91ub-d7KkiN0Qnx9Gt/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_rbg.gif)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/9_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/9_rgb.gif)
 
 ##### mocap_env2_dark_comb  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(7.14GB)](https://drive.google.com/file/d/1hgHRqF8yqSwpp0tQOytDvYpGBV_S4nNr/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_rbg.gif)

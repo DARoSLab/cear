@@ -18,35 +18,35 @@ horizontal: true
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/mocap_comb_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/mocap_comb_rgb.gif)
 
 ##### mocap_env1_dark_trot  &nbsp;&nbsp;&nbsp;&nbsp;  [Data(5.6GB)](https://drive.google.com/drive/folders/1Px7eEoJTiH0b44fHcex1O6TRuthmJ_ky?usp=drive_link)    &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/3_mocap_dark_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/3_mocap_dark_rgb.gif)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_rbg.gif)
 
 ##### mocap_env1_dark_comb  &nbsp;&nbsp;&nbsp;&nbsp; [Data(8.62GB)](https://drive.google.com/file/d/1-4nVczavTWgmQYKE-Slg4ZwTZ6keI9Uc/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp;GT_Pose
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/3_mocap_dark_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/3_mocap_dark_rgb.gif)
 
 
 ##### mocap_env1_blinking_trot   &nbsp;&nbsp;&nbsp;&nbsp; [Data(4.35GB)](https://drive.google.com/file/d/1wbFXGdfR-bmmiUjUgGQfs9vrY43Kj1Nn/view?usp=drive_link)  &nbsp;&nbsp;&nbsp;&nbsp;  GT_Pose
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_rbg.gif)
 
 ##### mocap_env1_blinking_comb   &nbsp;&nbsp;&nbsp;&nbsp; [Data(6.24GB)](https://drive.google.com/file/d/1wbFXGdfR-bmmiUjUgGQfs9vrY43Kj1Nn/view?usp=drive_link)  &nbsp;&nbsp;&nbsp;&nbsp;  GT_Pose
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_rbg.gif)
 
 ##### mocap_env2_trot  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(4.88GB)](https://drive.google.com/file/d/1lR6j_C_I0zbpcf8u6bAN6YtdueVpTx0s/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_rbg.gif)
 
 ##### mocap_env2_comb  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(7.2GB)](https://drive.google.com/file/d/1-A5-S9oGCumRPVMZlvb-s7DgUyr4pSlx/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_rbg.gif)
 
 ##### mocap_env2_dark_trot  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(6.79GB)](https://drive.google.com/file/d/1TsKl31X4QFbeor91ub-d7KkiN0Qnx9Gt/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_rbg.gif)
 
 ##### mocap_env2_dark_comb  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(7.14GB)](https://drive.google.com/file/d/1hgHRqF8yqSwpp0tQOytDvYpGBV_S4nNr/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_rbg.gif)
 
 ##### mocap_env2_blinking_trot   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data(5.74GB)](https://drive.google.com/file/d/1tQJheqcHqVY1xZfM6Np4su6BNKnvFcOF/view?usp=drive_link)   &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_rbg.gif)
 
 ##### mocap_env2_blinking_comb   &nbsp;&nbsp;&nbsp;&nbsp; [Data(6.79GB)](https://drive.google.com/file/d/1E-itZRymx1DXkQrBwdDk5ZwcuDSFjoeu/view?usp=drive_link)  &nbsp;&nbsp;&nbsp;&nbsp;  GT_Pose
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/download/arrow_elevator_up_runner_md_nwm_v2.gif)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_rbg.gif)
 
 
 

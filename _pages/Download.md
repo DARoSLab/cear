@@ -46,7 +46,7 @@ horizontal: true
 ![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_rbg.gif)
 
 ##### mocap_env2_blinking_comb   &nbsp;&nbsp;&nbsp;&nbsp; [Data(6.79GB)](https://drive.google.com/file/d/1E-itZRymx1DXkQrBwdDk5ZwcuDSFjoeu/view?usp=drive_link)  &nbsp;&nbsp;&nbsp;&nbsp;  GT_Pose
-![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/4_mocap_dark_trot_rbg.gif)
+![Event GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/mocap_env2_blinking_comb_event.gif) ![RGB GIF](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/img/mocap_env2_blinking_comb_rgb.gif)
 
 
 

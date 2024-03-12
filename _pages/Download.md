@@ -16,6 +16,22 @@ horizontal: true
   Your browser does not support the video tag.
 </video>
 
+
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/side_by_side.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var video = document.getElementById('myVideo');
+
+    video.addEventListener('ended', function() {
+      this.currentTime = 0;
+      this.play();
+    });
+  });
+</script>
 ---
 ## Outdoor scequences
 ---

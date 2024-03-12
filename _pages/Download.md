@@ -10,6 +10,7 @@ horizontal: true
 ## Indoor scequences
 ---
 ##### Test Example &nbsp;&nbsp;&nbsp;&nbsp; [Data(4.95GB)](https://drive.google.com/file/d/1BGD_9tUYrxLmVhRj3dp_Tz5M5Fj--__2/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+![Vedio](https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/side_by_side.mp4)
 <video width="640" height="360" controls>
   <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/side_by_side.mp4" type="video/mp4">
   Your browser does not support the video tag.

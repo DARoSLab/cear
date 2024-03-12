@@ -9,18 +9,6 @@ horizontal: true
 ---
 ## Indoor scequences
 ---
-##### Test Example &nbsp;&nbsp;&nbsp;&nbsp; [Data(4.95GB)](https://drive.google.com/file/d/1BGD_9tUYrxLmVhRj3dp_Tz5M5Fj--__2/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
-
-<video width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/side_by_side.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-<video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/side_by_side.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
@@ -32,6 +20,18 @@ horizontal: true
     });
   });
 </script>
+##### Test Example &nbsp;&nbsp;&nbsp;&nbsp; [Data(4.95GB)](https://drive.google.com/file/d/1BGD_9tUYrxLmVhRj3dp_Tz5M5Fj--__2/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/side_by_side.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+##### classroom_blinking_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(6.63GB)](https://drive.google.com/file/d/1nrJWuZctXc-m9v5y0hn4Vifg1bekYvQJ/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/classroom_blinking_comb.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 ## Outdoor scequences
 ---

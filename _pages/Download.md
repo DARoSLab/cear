@@ -134,6 +134,31 @@ horizontal: true
   Your browser does not support the video tag.
 </video>
 
+##### kitchen_dark_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(4.11GB)](https://drive.google.com/file/d/17JTgwIVCBNw_5zHbYzncafvUy99ePys7/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/kitchen_dark_trot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+##### kitchen_dark_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(5.65GB)](https://drive.google.com/file/d/1MfF0FKvgCfdgChW3pWc_Pv5aTO_e4khU/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/kitchen_dark_comb.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+##### kitchen_blinking_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(4.42GB)](https://drive.google.com/file/d/1WwLJFiIiX29VdKK2lV-KUYXIDCV8-jGK/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/kitchen_blinking_trot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+##### kitchen_blinking_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(4.71GB)](https://drive.google.com/file/d/1SoKtC-ERIdcf3G7fJQWjQbGCVb6WcVrL/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/kitchen_blinking_comb.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ---
 ## Outdoor scequences
 ---

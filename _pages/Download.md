@@ -90,14 +90,49 @@ horizontal: true
   Your browser does not support the video tag.
 </video>
 
-
-##### home1_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(6.92GB)](https://drive.google.com/file/d/1_xstSFA-kfbkg_21jmV-AJ1kDqwVnhhO/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+##### home1_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(8.78)](https://drive.google.com/file/d/1mfTZhUJdibBXD4YNmj2rmjblfORRJJaF/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
   <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/home1_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 
+##### home2_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(7.15GB)](https://drive.google.com/file/d/11jhCNufnFGVGk7TqavOvQVESZrnfJox-/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/home2_trot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+##### home2_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(7.96GB)](https://drive.google.com/file/d/16jYZcQjzoIf4UDs_LHahRajHITFCSGON/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/home2_comb.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+##### integrative_learning_center_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(15.12GB)](https://drive.google.com/file/d/109eA90kAQ8VuC-jnyCqzQ60WAdVIKSXa/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/integrative_learning_center_trot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+##### integrative_learning_center_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(22.32GB)](https://drive.google.com/file/d/109eA90kAQ8VuC-jnyCqzQ60WAdVIKSXa/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/integrative_learning_center_comb.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+##### kitchen_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(3.62GB)](https://drive.google.com/file/d/11qH5Ubp2Jx-rr9PBaNnzNQOm51P4E0p2/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/kitchen_trot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+##### kitchen_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(5.13GB)](https://drive.google.com/file/d/1JCwVq6X2556c1qJVziOlhuGARYfbRQcz/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/kitchen_comb.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 ## Outdoor scequences
 ---

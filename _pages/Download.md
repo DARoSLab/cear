@@ -20,13 +20,15 @@ horizontal: true
     });
   });
 </script>
+</script>
+
 ##### blue_wall_dining_hall_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(22.41GB)](https://drive.google.com/file/d/1o6cf90nuky3UGwmLIJcaxltW957oadGO/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
   <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/blue_wall_dining_hall_trot.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-</script>
+
 ##### blue_wall_dining_hall_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(32.23GB)](https://drive.google.com/file/d/1o6cf90nuky3UGwmLIJcaxltW957oadGO/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
   <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/blue_wall_dining_hall_comb.mp4" type="video/mp4">

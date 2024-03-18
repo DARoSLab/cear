@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#' style='font-size: 24px;'>EAGLE</a>. Event dataset of an AGile-LEgged robot
+subtitle: <a href='#'>EAGLE</a>. Event dataset of an AGile-LEgged robot
 
 # profile:
 #   align: right
@@ -20,7 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
 
-The initial SLAM benchmark datasets for legged robots meet the following stringent criteria:
+The First Event Camera Dataset Gathered by an Agile Quadruped Robot:
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/cover.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -29,8 +30,8 @@ The initial SLAM benchmark datasets for legged robots meet the following stringe
 <div class="caption">
     EAGER Benchmark Data
 </div>
-- Acquired using a comprehensive, hardware-synchronized sensor suite mounted on a mini-cheetah-legged robot. The suite includes an event stereo camera, a conventional stereo camera, an RGB-D sensor, a LiDAR, IMU, and joint angle sensors.
 
-- Encompassing a broad range of motion dynamics, environmental complexities, illumination conditions, and control algorithms.
+- We present the first dataset that provides a comprehensive collection of sensor data from an agile quadruped robot, including inputs from an event camera, RGB-D camera, IMU, LiDAR, and joint encoders.
 
-- Providing accurate ground truth indoor pose information.
+- We provide data across 31 distinct environments, within each of which we captured data under varying lighting conditions and through diverse robotic locomotion gaits.
+- We offer 6 DoF ground-truth poses from a motion capture system or an advanced SLAM algorithm, complemented with precise intrinsic, extrinsic, and temporal synchronization parameters.

@@ -79,4 +79,12 @@ layout: default
           {%- endif %}
         </article>
 
+        <script>
+          document.addEventListener('DOMContentLoaded', function() {
+            var descElement = document.querySelector('.desc');
+            if (descElement) {
+              descElement.innerHTML = descElement.textContent.replace(/([A-Z])/g, '<span style="font-weight: bold;">$1</span>');
+            }
+          });
+        </script>
 </div>

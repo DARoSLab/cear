@@ -23,7 +23,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 The First Event Camera Dataset Gathered by an Agile Quadruped Robot:
 
 
-<video id="intro_video" style="width: 100%; height: auto;" autoplay muted loop>
+<video id="intro_video" style="width: 100%; height: auto;" controls loop>
   <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/home/EAGLE.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

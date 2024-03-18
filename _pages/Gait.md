@@ -8,9 +8,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-### Demonstration of different robot gaits.
-
-## Legged robot gaits
+### Visualiation of different quadruped gaits.
 
 <div style="text-align: center; width: 100%;">
     <div style="display: inline-block; width: 24%; vertical-align: top;">

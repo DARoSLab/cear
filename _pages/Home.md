@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
 
-The First Event Camera Dataset Gathered by an Agile Quadruped Robot:
+The First Event Camera Dataset Gathered by an Agile Quadruped Robot.
 
 
 <video id="intro_video" style="width: 100%; height: auto;" controls loop>

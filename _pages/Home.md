@@ -21,20 +21,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 
 The First Event Camera Dataset Gathered by an Agile Quadruped Robot:
-<!-- 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cover.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    EAGER Benchmark Data
-</div> -->
 
-<video id="intro_video" width="1280" height="720" autoplay muted loop>
+
+<video id="intro_video" style="width: 100%; height: auto;" autoplay muted loop>
   <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/home/EAGLE.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 - We present the first dataset that provides a comprehensive collection of sensor data from an agile quadruped robot, including inputs from an event camera, RGB-D camera, IMU, LiDAR, and joint encoders.
 

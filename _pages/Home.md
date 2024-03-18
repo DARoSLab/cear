@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>EAGER</a>. Event dataset of an AGile-legged Robot
+subtitle: <a href='#' style='font-size: 24px;'>EAGLE</a>. Event dataset of an AGile-LEgged robot
 
 # profile:
 #   align: right

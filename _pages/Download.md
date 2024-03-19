@@ -170,6 +170,30 @@ horizontal: true
   Your browser does not support the video tag.
 </video>
 
+#### room_a307_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(8.8GB)](https://drive.google.com/file/d/1O_6_PQpSD3VT2UonOT74hut0Nj0XwST9/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/room_a307_trot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+#### room_a307_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(10.69GB)](https://drive.google.com/file/d/17LWMGlsJMCzyu1Su6c7Iqo28lmu5Kujo/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/room_a307_comb.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+#### room_a307_hdr_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(10.11GB)](https://drive.google.com/file/d/1vqS_Xo3E23jnZOmYOGRZbbrDJ2FkPTfh/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/room_a307_dark_trot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+#### room_a307_hdr_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(12.71GB)](https://drive.google.com/file/d/1dZVgSnqrlyyW7NlIwLJV9xfMSAJkUtQi/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+<video id="myVideo" width="640" height="360" autoplay muted loop>
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/room_a307_dark_comb.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 ## Outdoor scequences

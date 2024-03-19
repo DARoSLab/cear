@@ -158,15 +158,15 @@ horizontal: true
   Your browser does not support the video tag.
 </video>
 
-##### Integrated_learning_center_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(15.12GB)](https://drive.google.com/file/d/109eA90kAQ8VuC-jnyCqzQ60WAdVIKSXa/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+##### LGRC_building_3rdfloor_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(21.67GB)](https://drive.google.com/file/d/1TxidLRZs9exTAoTWXvfPZ_whR0sxMCcI/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/integrative_learning_center_trot.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/LGRC_building_3rdfloor_trot.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-##### Integrated_learning_center_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(22.32GB)](https://drive.google.com/file/d/1uu7nkbovVvG0r68EeQsBON1EkYODZOCk/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+##### LGRC_building_3rdfloor_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(30.36GB)](https://drive.google.com/file/d/1vSMoWYjFu31aJnVkHfL0IysFG5kAJGlL/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/integrative_learning_center_comb.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/LGRC_building_3rdfloor_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

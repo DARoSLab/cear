@@ -550,25 +550,25 @@ horizontal: true
   Your browser does not support the video tag.
 </video>
 
-#### &nbsp;&nbsp;&nbsp;&nbsp; [Data(GB)]() &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+#### sidewalk2_day_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(31.43GB)](https://drive.google.com/file/d/1grIdm8UhVU0zve6coqA3NAgIH0GSZ2Qm/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
   <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/room_a308_dark_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-#### &nbsp;&nbsp;&nbsp;&nbsp; [Data(GB)]() &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+#### sidewalk2_day_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(63.15GB)](https://drive.google.com/file/d/1E5_m09Ny2-BVRFAj0iPjTn8eb0SvAohL/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
   <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/room_a308_dark_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-#### &nbsp;&nbsp;&nbsp;&nbsp; [Data(GB)]() &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+#### sidewalk2_night_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(36.28GB)](https://drive.google.com/file/d/1NIuErk3z5oj8Lh69nrZ3dYkNI6J0Tshc/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
   <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/room_a308_dark_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-#### &nbsp;&nbsp;&nbsp;&nbsp; [Data(GB)]() &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
+#### sidewalk2_night_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(61.88GB)](https://drive.google.com/file/d/1r7E6rsaqDopCFqQYIApg0enEKaALB6Yc/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
   <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/room_a308_dark_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.

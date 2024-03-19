@@ -328,6 +328,8 @@ horizontal: true
   <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/room_a308_dark_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
 ---
 ## Outdoor scequences
 ---

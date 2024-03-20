@@ -220,112 +220,112 @@ horizontal: true
 
 #### mocap_env1_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(4.95GB)](https://drive.google.com/file/d/1BGD_9tUYrxLmVhRj3dp_Tz5M5Fj--__2/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_trot.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env1_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(9.16GB)](https://drive.google.com/file/d/11WOnzdbziy5FDo6UnJrjM8Kd-H-3-1lU/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env1_dark_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(5.6GB)](https://drive.google.com/file/d/1PsuY_j1mmLtFtmoX-SEbfZXH-G0l59QF/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_dark_trot.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env1_dark_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(8.26GB)](https://drive.google.com/file/d/1-4nVczavTWgmQYKE-Slg4ZwTZ6keI9Uc/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_dark_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 
 #### mocap_env1_blinking_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(4.35GB)](https://drive.google.com/file/d/1wbFXGdfR-bmmiUjUgGQfs9vrY43Kj1Nn/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_blinking_trot.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env1_blinking_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(6.24GB)](https://drive.google.com/file/d/1vSMoWYjFu31aJnVkHfL0IysFG5kAJGlL/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_blinking_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env2_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(4.88GB)](https://drive.google.com/file/d/1lR6j_C_I0zbpcf8u6bAN6YtdueVpTx0s/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env2_trot.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env2_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(7.2GB)](https://drive.google.com/file/d/1-A5-S9oGCumRPVMZlvb-s7DgUyr4pSlx/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env2_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env2_dark_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(5.88GB)](https://drive.google.com/file/d/1TsKl31X4QFbeor91ub-d7KkiN0Qnx9Gt/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env2_dark_trot.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env2_dark_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(7.14GB)](https://drive.google.com/file/d/1-4nVczavTWgmQYKE-Slg4ZwTZ6keI9Uc/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env2_dark_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 
 #### mocap_env2_blinking_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(5.74GB)](https://drive.google.com/file/d/1tQJheqcHqVY1xZfM6Np4su6BNKnvFcOF/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env2_blinking_trot.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env2_blinking_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(6.79GB)](https://drive.google.com/file/d/1E-itZRymx1DXkQrBwdDk5ZwcuDSFjoeu/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env2_blinking_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env3_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(5.77GB)](https://drive.google.com/file/d/1jgbOlbcmgtZIh7B_oy0DDQgVZO6Y55rz/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env3_trot.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env3_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(8.09GB)](https://drive.google.com/file/d/1HIyYoeVVZG4XnAAUYngqIHNBSlsTh_zW/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env3_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env3_dark_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(5.3GB)](https://drive.google.com/file/d/1883jSENIdaZckOdWMNEoL0krN51LqBFc/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env3_dark_trot.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env3_dark_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(8.28GB)](https://drive.google.com/file/d/17wMAYx-NmOugxwFT7H2DfQM92aOu7Q5o/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env3_dark_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 
 #### mocap_env3_blinking_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(5.82GB)](https://drive.google.com/file/d/1nRDREfMo1dAmKKjZwevVbLNgpYeW1-JG/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env3_blinking_trot.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### mocap_env3_blinking_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(8.09GB)](https://drive.google.com/file/d/1HIyYoeVVZG4XnAAUYngqIHNBSlsTh_zW/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
 <video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env3_blinking_comb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

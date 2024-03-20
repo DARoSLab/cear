@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 horizontal: true
 ---
-## Indoor scequences
+# Indoor scequences
 ---
 
 <script>
@@ -21,11 +21,16 @@ horizontal: true
   });
 </script>
 
-##### dining_hall_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(22.41GB)](https://drive.google.com/file/d/1o6cf90nuky3UGwmLIJcaxltW957oadGO/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
-<video id="myVideo" width="640" height="360" autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/dining_hall_trot.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="margin-bottom: 5px;">
+  <h5>dining_hall_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1o6cf90nuky3UGwmLIJcaxltW957oadGO/view?usp=drive_link">Data(22.41GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
+</div>
+<div style="margin-top: 5px;">
+  <video id="myVideo" width="640" height="360" autoplay muted loop>
+    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/dining_hall_trot.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 
 ##### dining_hall_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(32.23GB)](https://drive.google.com/file/d/1o6cf90nuky3UGwmLIJcaxltW957oadGO/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
@@ -331,7 +336,7 @@ horizontal: true
 
 
 ---
-## Outdoor scequences
+# Outdoor scequences
 ---
 
 #### around_building_day_trot &nbsp;&nbsp;&nbsp;&nbsp; [Data(22.57GB)](https://drive.google.com/file/d/11sB9Ys5QFfTdsnNEa3IAMFHfh0vR3-F7/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose
@@ -576,7 +581,7 @@ horizontal: true
 
 
 ---
-## Backflip scequences
+# Backflip scequences
 ---
 
 

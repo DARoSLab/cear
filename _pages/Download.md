@@ -422,7 +422,7 @@ div style="margin-bottom: -15mm;">
 </div>
 
 <div style="margin-bottom: -15mm;">
-  <h5>mocap_env2_dark_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1TsKl31X4QFbeor91ub-d7KkiN0Qnx9Gt/view?usp=drive_link">Data(GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
+  <h5>mocap_env2_dark_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1TsKl31X4QFbeor91ub-d7KkiN0Qnx9Gt/view?usp=drive_link">Data(5.88GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>

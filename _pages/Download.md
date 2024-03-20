@@ -31,9 +31,8 @@ horizontal: true
   </video>
 </div>
 
-
 <div style="margin-bottom: -15mm;">
-  <h5>dining_hall_comb &nbsp;&nbsp;&nbsp;&nbsp; [Data(32.23GB)](https://drive.google.com/file/d/1o6cf90nuky3UGwmLIJcaxltW957oadGO/view?usp=drive_link) &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
+  <h5>dining_hall_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1vO8qf2h7T6lNIaYAdhzXeEBCwX4iu5Gz/view?usp=drive_link">Data(32.23GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>

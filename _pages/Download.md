@@ -42,7 +42,7 @@ horizontal: true
 </div>
 
 <div style="margin-bottom: -15mm;">
-  <h5>classroom_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1QNKq24GO7oc2fRIu2un8kAUKTWnbjjlx/view?usp=drive_link">Data(4.5GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
+  <h5>classroom_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1QNKq24GO7oc2fRIu2un8kAUKTWnbjjlx/view?usp=sharing">Data(4.5GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>

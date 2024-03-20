@@ -21,10 +21,10 @@ horizontal: true
   });
 </script>
 
-<div style="margin-bottom: -15mm;">
+<div style="margin-bottom: 0mm;">
   <h5>dining_hall_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1o6cf90nuky3UGwmLIJcaxltW957oadGO/view?usp=drive_link">Data(22.41GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
 </div>
-<div style="margin-top: -15mm;">
+<div style="margin-top: 0mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
     <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/dining_hall_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.

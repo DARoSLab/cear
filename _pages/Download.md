@@ -22,7 +22,7 @@ horizontal: true
 </script>
 
 <div style="margin-bottom: 0mm;">
-  <h5>dining_hall_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1o6cf90nuky3UGwmLIJcaxltW957oadGO/view?usp=drive_link">Data(22.41GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
+  <h5>dining_hall_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1o6cf90nuky3UGwmLIJcaxltW957oadGO/view?usp=sharing">Data(22.41GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
 </div>
 <div style="margin-top: 0mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>

@@ -392,7 +392,7 @@ horizontal: true
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>mocap_env1_blinking_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1vSMoWYjFu31aJnVkHfL0IysFG5kAJGlL/view?usp=drive_link">Data(6.24GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
+  <h5>mocap_env1_blinking_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1vSMoWYjFu31aJnVkHfL0IysFG5kAJGlL/view?usp=drive_link">Data(6.24GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1juQOzRVLkiKfP15dlI2SKBhr3Gh2s94D/view?usp=drive_link">GT_Pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>

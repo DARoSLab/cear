@@ -6,8 +6,7 @@ description: On this page, you can download the benchmark data as rosbag or use 
 nav: true
 nav_order: 5
 horizontal: true
----
-# Indoor scequences
+
 ---
 
 # Downloads

@@ -12,6 +12,6 @@ horizontal: true
 
 # Downloads
 
-- [Dining Hall Trot](/downloads/dining-hall-trot/)
-- [Dining Hall Comb](/downloads/dining-hall-comb/)
-- [Classroom Trot](/downloads/classroom-trot/)
+- [IndoorSequences](/downloads/indoorsequence/)
+- [OutdoorSequences](/downloads/outdoorsequence/)
+- [BackflipSequences](/downloads/backflipsequence/)

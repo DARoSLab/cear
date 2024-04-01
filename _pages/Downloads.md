@@ -6,12 +6,9 @@ description: On this page, you can download the benchmark data as rosbag or use 
 nav: true
 nav_order: 5
 horizontal: true
----
-# Indoor scequences
----
 
 # Downloads
 
-- [Dining Hall Trot](/downloads/dining-hall-trot/)
-- [Dining Hall Comb](/downloads/dining-hall-comb/)
-- [Classroom Trot](/downloads/classroom-trot/)
+- [IndoorSequences](/downloads/IndoorSequences/)
+- [OutdoorSequences](/downloads/OutdoorSequences/)
+- [BackflipSequences](/downloads/BackflipSequences/)

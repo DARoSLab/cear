@@ -11,6 +11,6 @@ horizontal: true
 
 # Downloads
 
-- [IndoorSequences](/downloads/indoorsequence/)
-- [OutdoorSequences](/downloads/outdoorsequence/)
-- [BackflipSequences](/downloads/backflipsequence/)
+- [IndoorSequences](/EAGLE/Downloads/indoorsequence/)
+- [OutdoorSequences](EAGLE/Downloads/outdoorsequence/)
+- [BackflipSequences](/EAGLE/Downloads/backflipsequence/)

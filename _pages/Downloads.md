@@ -11,9 +11,9 @@ horizontal: true
 
 ## All sequences:
 
-- <span style="font-size: 20px;">[All Indoor Sequences](/EAGLE/Downloads/indoorsequence/)</span>
-- <span style="font-size: 20px;">[All Outdoor Sequences](/EAGLE/Downloads/outdoorsequence/)</span>
-- <span style="font-size: 20px;">[All Backflip Sequences](/EAGLE/Downloads/backflipsequence/)</span>
+- <span style="font-size: 22px;">[All Indoor Sequences](/EAGLE/Downloads/indoorsequence/)</span>
+- <span style="font-size: 22px;">[All Outdoor Sequences](/EAGLE/Downloads/outdoorsequence/)</span>
+- <span style="font-size: 22px;">[All Backflip Sequences](/EAGLE/Downloads/backflipsequence/)</span>
 
 
 <script>

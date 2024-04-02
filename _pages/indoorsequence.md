@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /Downloads/indoorsequence/
-title: All Indoor Sequences
+title: Indoor Sequences
 description: On this page, you can download the benchmark data as rosbag or use our toolbox to select data topics you are interested in to create customized data.
 nav: true
 nav_order: 5

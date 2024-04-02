@@ -11,6 +11,7 @@ horizontal: true
 
 # Downloads
 
-- [IndoorSequences](/EAGLE/Downloads/indoorsequence/)
-- [OutdoorSequences](EAGLE/Downloads/outdoorsequence/)
-- [BackflipSequences](/EAGLE/Downloads/backflipsequence/)
+- <span style="font-size: large;">[All Indoor Sequences](/EAGLE/Downloads/indoorsequence/)</span>
+- <span style="font-size: large;">[All Outdoor Sequences](/EAGLE/Downloads/outdoorsequence/)</span>
+- <span style="font-size: large;">[All Backflip Sequences](/EAGLE/Downloads/backflipsequence/)</span>
+

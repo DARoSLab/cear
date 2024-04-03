@@ -33,7 +33,7 @@ horizontal: true
 
 <div style="display: flex; flex-wrap: wrap;">
     <!-- Video 1 -->
-    <div style="flex: 32%g; text-align: center;">
+    <div style="flex: 32%; text-align: center;">
         <h5 style="margin-bottom: 10px;">mocap_env1_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -43,7 +43,7 @@ horizontal: true
     </div>
 
     <!-- Video 2 -->
-    <div style="flex: 32%g; text-align: center;">
+    <div style="flex: 32%; text-align: center;">
         <h5 style="margin-bottom: 10px;">mocap_env1_dark_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -53,7 +53,7 @@ horizontal: true
     </div>
 
     <!-- Video 3 -->
-    <div style="flex: 32%g; text-align: center;">
+    <div style="flex: 32%; text-align: center;">
         <h5 style="margin-bottom: 10px;">mocap_env1_blinking_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -63,7 +63,7 @@ horizontal: true
     </div>
 
     <!-- Video 4 -->
-    <div style="flex: 32%g; text-align: center;">
+    <div style="flex: 32%; text-align: center;">
         <h5 style="margin-bottom: 10px;">mocap_env1_comb 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -73,7 +73,7 @@ horizontal: true
     </div>
 
     <!-- Video 5 -->
-    <div style="flex: 32%g; text-align: center;">
+    <div style="flex: 32%; text-align: center;">
         <h5 style="margin-bottom: 10px;">mocap_env1_dark_comb 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -83,7 +83,7 @@ horizontal: true
     </div>
 
     <!-- Video 6 -->
-    <div style="flex: 32%g; text-align: center;">
+    <div style="flex: 32%; text-align: center;">
         <h5 style="margin-bottom: 10px;">mocap_env1_blinking_comb
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -96,47 +96,48 @@ horizontal: true
 ### Outdoor sequence example
 
 
-<div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>between_buildings_day_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1SFNW2phfuOkcpBhgYwXKNd75qYzJgwZf/view?usp=drive_link">Data(8.24GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
-</div>
-<div style="margin-top: -15mm;">
-  <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_day_trot.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
 
-<div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>between_buildings_day_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1ik_XYbhM6yClPClOhmUNeao4b0g4P_O3/view?usp=drive_link">Data(11.54GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
-</div>
-<div style="margin-top: -15mm;">
-  <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_day_comb.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+<div style="display: flex; flex-wrap: wrap;">
+    <!-- Video 1 -->
+    <div style="flex: 48%; text-align: center;">
+        <h5 style="margin-bottom: 10px;">mocap_env1_trot 
+        </h5>
+        <video style="width: 100%; height: auto;" autoplay muted loop>
+            <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_day_trot" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
 
-<div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>between_buildings_night_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1eH5JXFZtxLYFniomFzoFP9BwVGF-kygY/view?usp=drive_link">Data(12.3GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
-</div>
-<div style="margin-top: -15mm;">
-  <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_night_trot.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+    <!-- Video 2 -->
+    <div style="flex: 48%; text-align: center;">
+        <h5 style="margin-bottom: 10px;">mocap_env1_dark_trot 
+        </h5>
+        <video style="width: 100%; height: auto;" autoplay muted loop>
+            <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_night_trot.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
 
-<div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>between_buildings_night_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1giL7gv05E6ZucFAwp9krBWy7YavzeUNu/view?usp=drive_link">Data(18.5GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
-</div>
-<div style="margin-top: -15mm;">
-  <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_night_comb.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+    <!-- Video 3 -->
+    <div style="flex: 48%; text-align: center;">
+        <h5 style="margin-bottom: 10px;">mocap_env1_blinking_trot 
+        </h5>
+        <video style="width: 100%; height: auto;" autoplay muted loop>
+            <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_day_comb.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
 
-
+    <!-- Video 4 -->
+    <div style="flex: 48%; text-align: center;">
+        <h5 style="margin-bottom: 10px;">mocap_env1_comb 
+        </h5>
+        <video style="width: 100%; height: auto;" autoplay muted loop>
+            <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_night_comb" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
 
 ### Backflip sequence example
 

@@ -34,9 +34,7 @@ horizontal: true
 <div style="display: flex; flex-wrap: wrap;">
     <!-- Video 1 -->
     <div style="flex: 33%; text-align: center; padding: 10px;">
-        <h5 style="margin-bottom: 10px;">mocap_env1_trot &nbsp;&nbsp;&nbsp;&nbsp; 
-            <a href="https://drive.google.com/file/d/1BGD_9tUYrxLmVhRj3dp_Tz5M5Fj--__2/view?usp=drive_link">Data(4.95GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-            <a href="https://drive.google.com/file/d/1tKdZGPGWsxIW2d3_gHz-zYBRtq4fr6e0/view?usp=drive_link">GT_Pose</a>
+        <h5 style="margin-bottom: 10px;">mocap_env1_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
             <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_trot.mp4" type="video/mp4">
@@ -46,9 +44,7 @@ horizontal: true
 
     <!-- Video 2 -->
     <div style="flex: 33%; text-align: center; padding: 10px;">
-        <h5 style="margin-bottom: 10px;">mocap_env1_dark_trot &nbsp;&nbsp;&nbsp;&nbsp; 
-            <a href="https://drive.google.com/file/d/1PsuY_j1mmLtFtmoX-SEbfZXH-G0l59QF/view?usp=drive_link">Data(5.6GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-            <a href="https://drive.google.com/file/d/1CSqasKCpmjSs2U6LtRH6-1DC6YbFHQDl/view?usp=drive_link">GT_Pose</a>
+        <h5 style="margin-bottom: 10px;">mocap_env1_dark_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
             <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_dark_trot.mp4" type="video/mp4">
@@ -58,9 +54,7 @@ horizontal: true
 
     <!-- Video 3 -->
     <div style="flex: 33%; text-align: center; padding: 10px;">
-        <h5 style="margin-bottom: 10px;">mocap_env1_blinking_trot &nbsp;&nbsp;&nbsp;&nbsp; 
-            <a href="https://drive.google.com/file/d/1wbFXGdfR-bmmiUjUgGQfs9vrY43Kj1Nn/view?usp=drive_link">Data(4.35GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-            <a href="https://drive.google.com/file/d/1CotbfeubmiDCvZyTI-9tVWo8_DV2RkTL/view?usp=drive_link">GT_Pose</a>
+        <h5 style="margin-bottom: 10px;">mocap_env1_blinking_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
             <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_blinking_trot.mp4" type="video/mp4">
@@ -70,9 +64,7 @@ horizontal: true
 
     <!-- Video 4 -->
     <div style="flex: 33%; text-align: center; padding: 10px;">
-        <h5 style="margin-bottom: 10px;">mocap_env1_comb &nbsp;&nbsp;&nbsp;&nbsp; 
-            <a href="https://drive.google.com/file/d/11WOnzdbziy5FDo6UnJrjM8Kd-H-3-1lU/view?usp=drive_link">Data(9.16GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-            <a href="https://drive.google.com/file/d/1dIsuuhXLLxzhY2g_r9SL8ODV4G7KNuQU/view?usp=drive_link">GT_Pose</a>
+        <h5 style="margin-bottom: 10px;">mocap_env1_comb 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
             <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_comb.mp4" type="video/mp4">
@@ -82,9 +74,7 @@ horizontal: true
 
     <!-- Video 5 -->
     <div style="flex: 33%; text-align: center; padding: 10px;">
-        <h5 style="margin-bottom: 10px;">mocap_env1_dark_comb &nbsp;&nbsp;&nbsp;&nbsp; 
-            <a href="https://drive.google.com/file/d/1-4nVczavTWgmQYKE-Slg4ZwTZ6keI9Uc/view?usp=drive_link">Data(8.26GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-            <a href="https://drive.google.com/file/d/1HtHh9IhOD5kMoXhkFkGSjad-06W3jN7_/view?usp=drive_link">GT_Pose</a>
+        <h5 style="margin-bottom: 10px;">mocap_env1_dark_comb 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
             <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_dark_comb.mp4" type="video/mp4">
@@ -94,9 +84,7 @@ horizontal: true
 
     <!-- Video 6 -->
     <div style="flex: 33%; text-align: center; padding: 10px;">
-        <h5 style="margin-bottom: 10px;">mocap_env1_blinking_comb &nbsp;&nbsp;&nbsp;&nbsp; 
-            <a href="https://drive.google.com/file/d/1vSMoWYjFu31aJnVkHfL0IysFG5kAJGlL/view?usp=drive_link">Data(6.24GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-            <a href="https://drive.google.com/file/d/1juQOzRVLkiKfP15dlI2SKBhr3Gh2s94D/view?usp=drive_link">GT_Pose</a>
+        <h5 style="margin-bottom: 10px;">mocap_env1_blinking_comb
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
             <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_blinking_comb.mp4" type="video/mp4">

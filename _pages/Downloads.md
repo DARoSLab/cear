@@ -33,7 +33,7 @@ horizontal: true
 
 <div style="display: flex; flex-wrap: wrap;">
     <!-- Video 1 -->
-    <div style="flex: 33%; text-align: center;">
+    <div style="flex: 32%g; text-align: center;">
         <h5 style="margin-bottom: 10px;">mocap_env1_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -43,7 +43,7 @@ horizontal: true
     </div>
 
     <!-- Video 2 -->
-    <div style="flex: 33%; text-align: center;">
+    <div style="flex: 32%g; text-align: center;">
         <h5 style="margin-bottom: 10px;">mocap_env1_dark_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -53,7 +53,7 @@ horizontal: true
     </div>
 
     <!-- Video 3 -->
-    <div style="flex: 33%; text-align: center;">
+    <div style="flex: 32%g; text-align: center;">
         <h5 style="margin-bottom: 10px;">mocap_env1_blinking_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -63,7 +63,7 @@ horizontal: true
     </div>
 
     <!-- Video 4 -->
-    <div style="flex: 33%; text-align: center;">
+    <div style="flex: 32%g; text-align: center;">
         <h5 style="margin-bottom: 10px;">mocap_env1_comb 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -73,7 +73,7 @@ horizontal: true
     </div>
 
     <!-- Video 5 -->
-    <div style="flex: 33%; text-align: center;">
+    <div style="flex: 32%g; text-align: center;">
         <h5 style="margin-bottom: 10px;">mocap_env1_dark_comb 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -83,7 +83,7 @@ horizontal: true
     </div>
 
     <!-- Video 6 -->
-    <div style="flex: 33%; text-align: center;">
+    <div style="flex: 32%g; text-align: center;">
         <h5 style="margin-bottom: 10px;">mocap_env1_blinking_comb
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>

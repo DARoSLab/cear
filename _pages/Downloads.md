@@ -100,7 +100,7 @@ horizontal: true
 <div style="display: flex; flex-wrap: wrap;">
     <!-- Video 1 -->
     <div style="flex: 48%; text-align: center;">
-        <h5 style="margin-bottom: 10px;">mocap_env1_trot 
+        <h5 style="margin-bottom: 10px;">between_buildings_day_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
             <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_day_trot" type="video/mp4">
@@ -110,7 +110,7 @@ horizontal: true
 
     <!-- Video 2 -->
     <div style="flex: 48%; text-align: center;">
-        <h5 style="margin-bottom: 10px;">mocap_env1_dark_trot 
+        <h5 style="margin-bottom: 10px;">between_buildings_night_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
             <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_night_trot.mp4" type="video/mp4">
@@ -120,7 +120,7 @@ horizontal: true
 
     <!-- Video 3 -->
     <div style="flex: 48%; text-align: center;">
-        <h5 style="margin-bottom: 10px;">mocap_env1_blinking_trot 
+        <h5 style="margin-bottom: 10px;">between_buildings_day_comb 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
             <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_day_comb.mp4" type="video/mp4">
@@ -130,7 +130,7 @@ horizontal: true
 
     <!-- Video 4 -->
     <div style="flex: 48%; text-align: center;">
-        <h5 style="margin-bottom: 10px;">mocap_env1_comb 
+        <h5 style="margin-bottom: 10px;">between_buildings_night_comb 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
             <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_night_comb" type="video/mp4">
@@ -142,24 +142,24 @@ horizontal: true
 ### Backflip sequence example
 
 
-<div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>env1_backflip1 &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/18gmQA3DuIlzIMyYaMtTWxYduX91uZTaV/view?usp=drive_link">Data(4.06GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
-</div>
-<div style="margin-top: -15mm;">
-  <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/backflip/env1_backflip1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+<div style="display: flex; flex-wrap: wrap;">
+    <!-- Video 1 -->
+    <div style="flex: 32%; text-align: center;">
+        <h5 style="margin-bottom: 10px;"> env1_backflip1
+        </h5>
+        <video style="width: 100%; height: auto;" autoplay muted loop>
+            <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/backflip/env1_backflip1.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
 
-<div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>env1_backflip2 &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1QatyjhJS9WaR0ChtVFFtfIaQFkD9CVLy/view?usp=drive_link">Data(3.36GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_Pose</h5>
+    <!-- Video 2 -->
+    <div style="flex: 32%; text-align: center;">
+        <h5 style="margin-bottom: 10px;"> env1_backflip2 
+        </h5>
+        <video style="width: 100%; height: auto;" autoplay muted loop>
+            <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/backflip/env1_backflip2.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
 </div>
-<div style="margin-top: -15mm;">
-  <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/backflip/env1_backflip2.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-

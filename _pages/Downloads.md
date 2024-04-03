@@ -27,6 +27,11 @@ horizontal: true
   });
 </script>
 
+#### Indoor sequences were collected in 13 diverse environments under a range of lighting conditions: well-lit, dark, HDR, and blinking.
+
+#### The outdoor sequences were captured in 10 distinctive outdoor environments, with four sequences per environment. Each set of four sequences includes variations of two different sets of quadruped gaits (trot-only and combined gaits) under different periods of the day (daytime and nighttime)
+
+#### \*_trot means a trot-only gait and *_comb means a combination of trotting, bounding, and pronking gaits.
 
 
 ### Indoor sequence example

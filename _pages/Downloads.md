@@ -94,7 +94,7 @@ Indoor sequences were collected in 13 diverse environments under a range of ligh
 </div>
 
 ### Outdoor sequence example
-The outdoor sequences were captured in 10 distinctive outdoor environments, with four sequences per environment. Each set of four sequences includes variations of two different sets of quadruped gaits (trot-only and combined gaits) under different periods of the day (daytime and nighttime)
+The outdoor sequences were captured in 10 distinctive outdoor environments, with four sequences per environment. Each set of four sequences includes variations of two different sets of quadruped gaits (trot-only and combined gaits) under different periods of the day (daytime and nighttime).
 
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -103,7 +103,7 @@ The outdoor sequences were captured in 10 distinctive outdoor environments, with
         <h5 style="margin-bottom: 10px;">between_buildings_day_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
-            <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_day_trot" type="video/mp4">
+            <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_day_trot.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
@@ -133,7 +133,7 @@ The outdoor sequences were captured in 10 distinctive outdoor environments, with
         <h5 style="margin-bottom: 10px;">between_buildings_night_comb 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
-            <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_night_comb" type="video/mp4">
+            <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_night_comb.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>

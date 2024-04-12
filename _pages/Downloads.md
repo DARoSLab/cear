@@ -99,7 +99,7 @@ The outdoor sequences were captured in 10 distinctive outdoor environments, with
 
 <div style="display: flex; flex-wrap: wrap;">
     <!-- Video 1 -->
-    <div style="flex: 48%; text-align: center;">
+    <div style="flex: 40%; text-align: center;">
         <h5 style="margin-bottom: 10px;">between_buildings_day_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -109,7 +109,7 @@ The outdoor sequences were captured in 10 distinctive outdoor environments, with
     </div>
 
     <!-- Video 2 -->
-    <div style="flex: 48%; text-align: center;">
+    <div style="flex: 40%; text-align: center;">
         <h5 style="margin-bottom: 10px;">between_buildings_night_trot 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -119,7 +119,7 @@ The outdoor sequences were captured in 10 distinctive outdoor environments, with
     </div>
 
     <!-- Video 3 -->
-    <div style="flex: 48%; text-align: center;">
+    <div style="flex: 40%; text-align: center;">
         <h5 style="margin-bottom: 10px;">between_buildings_day_comb 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>
@@ -129,7 +129,7 @@ The outdoor sequences were captured in 10 distinctive outdoor environments, with
     </div>
 
     <!-- Video 4 -->
-    <div style="flex: 48%; text-align: center;">
+    <div style="flex: 40%; text-align: center;">
         <h5 style="margin-bottom: 10px;">between_buildings_night_comb 
         </h5>
         <video style="width: 100%; height: auto;" autoplay muted loop>

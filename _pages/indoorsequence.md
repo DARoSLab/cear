@@ -334,7 +334,7 @@ horizontal: true
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>lab2_hdr_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1q_8Nav3ccGP-Yyy5MZAZ8ecOBKvXISp0/view?usp=drive_link">Data(12.71GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_pose(FasterLIO)</h5>
+  <h5>lab2_hdr_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1q_8Nav3ccGP-Yyy5MZAZ8ecOBKvXISp0/view?usp=drive_link">Data(12.71GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1NMWEADb3BwevGmct2Iadrv3Lnxo7vdCm/view?usp=drive_link">GT_pose(FasterLIO)</a> </h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
@@ -522,5 +522,3 @@ horizontal: true
     Your browser does not support the video tag.
   </video>
 </div>
-
-

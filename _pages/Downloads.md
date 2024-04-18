@@ -27,6 +27,11 @@ horizontal: true
   });
 </script>
 
+---
+
+Note: All ground-truth poses have been temporally synchronized with the event camera's clock source. The poses are represented in either the MoCap or LiDAR reference frame.
+
+---
 ### Indoor sequence example
 Indoor sequences were collected in 13 diverse environments under a range of lighting conditions: well-lit, dark, HDR, and blinking. \*_trot means a trot-only gait and *_comb means a combination of trotting, bounding, and pronking gaits.
 

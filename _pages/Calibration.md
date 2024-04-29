@@ -12,9 +12,13 @@ horizontal: false
 ## Time offset parameters (second)
 ---
 EventCamera: 0.0
+
 MiniCheetahJoint: 0.004611
+
 VectorNav: -0.004012
+
 RealSense: -0.004611
+
 Velodyne: 0.003044
 
 E.g. Time_event = Time_vectornav - 0.004012

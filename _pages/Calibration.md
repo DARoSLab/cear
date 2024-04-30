@@ -17,7 +17,7 @@ MiniCheetahJoint: 0.004611
 
 VectorNav: -0.004012
 
-RealSense: -0.004611
+RealSense (depth camera): 0.004611
 
 Velodyne: 0.003044
 

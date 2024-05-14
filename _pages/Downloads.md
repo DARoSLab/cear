@@ -16,6 +16,18 @@ horizontal: true
 - <span style="font-size: 22px;">[All Backflip Sequences](/EAGLE/Downloads/backflipsequence/)</span>
 
 
+### Sensors for each sequence
+
+|                                | DAVIS346 Event Camera | DVXplorer Event Camera | LiDAR | RGB-D Camera, IMU, Joint Encoders |
+| ------------------------------ | --------------------- | ---------------------- | ----- | --------------------------------- |
+| Indoor sequences               | ❌                     | ✔️                      | ✔️     | ✔️                                 |
+| Outdoor sequences except for X | ✔️                     | ❌                      | ✔️     | ✔️                                 |
+| Outdoor sequences X            | ❌                     | ✔️                      | ✔️     | ✔️                                 |
+| Backflip sequences             | ❌                     | ✔️                      | ❌     | ✔️                                 |
+
+* X represents XXX, XXX, XXX sequences.
+
+
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     var video = document.getElementById('myVideo');

@@ -72,7 +72,7 @@ horizontal: true
   </video>
 </div>
 
-<div style="margin-bottom: -15mm; z-index: 10; position: relative;">
+<!-- <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
   <h5>between_buildings_day_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1ik_XYbhM6yClPClOhmUNeao4b0g4P_O3/view?usp=drive_link">Data(11.54GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1mb0PAy74ODIto4AtliK3eSXt5iV5uG11/view?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
@@ -80,7 +80,7 @@ horizontal: true
     <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/between_buildings_day_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</div>
+</div> -->
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
   <h5>between_buildings_night_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1eH5JXFZtxLYFniomFzoFP9BwVGF-kygY/view?usp=drive_link">Data(12.3GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1HMsYuI0vS8GcLjpFyfDGxbyaWpSkT14x/view?usp=drive_link">GT_pose</a></h5>
@@ -102,7 +102,7 @@ horizontal: true
   </video>
 </div>
 
-<div style="margin-bottom: -15mm; z-index: 10; position: relative;">
+<!-- <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
   <h5>downtown1_day_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/16O-WkOV5YlVa16rIa2fTj291SeR78vx5/view?usp=drive_link">Data(18.78GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1LnOteJjaS3Rt-VbOsZQWxdqj9P8kw8VN/view?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
@@ -120,7 +120,7 @@ horizontal: true
     <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/downtown1_day_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</div>
+</div> -->
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
   <h5>downtown1_night_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1xKj6AyvCFXCUF8TJvnlJ-0q0BtUC5zHB/view?usp=drive_link">Data(19GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1b1YUdpR3VWnnj96juzN9xeZ4BAB93_ox/view?usp=drive_link">GT_pose</a></h5>
@@ -142,7 +142,7 @@ horizontal: true
   </video>
 </div>
 
-<div style="margin-bottom: -15mm; z-index: 10; position: relative;">
+<!-- <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
   <h5>downtown2_day_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1pf01jpsuuao1kEPYUNU-wILaZ0mTkLhO/view?usp=drive_link">Data(17.59GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1iGN5Yh6MrM5XujOWhLlVfp6FS3l_UJib/view?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
@@ -160,7 +160,7 @@ horizontal: true
     <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/downtown2_day_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</div>
+</div> -->
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
   <h5>downtown2_night_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1MvWkzphOIK5XXxMDzX9e4JcT6EdB8NlF/view?usp=drive_link">Data(13.26GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1bNAsjQAPNHLBOSfXhXwXf2ZLkItcQakl/view?usp=drive_link">GT_pose</a></h5>
@@ -182,7 +182,7 @@ horizontal: true
   </video>
 </div>
 
-<div style="margin-bottom: -15mm; z-index: 10; position: relative;">
+<!-- <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
   <h5>forest_day_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/14WQma-HxIelBNj-HNNyv2aNLvx8tj5H2/view?usp=drive_link">Data(18.38GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1_LVMUwPOpUmMFor6e1REgll-wdAMSZpO/view?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
@@ -200,7 +200,7 @@ horizontal: true
     <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/forest_day_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</div>
+</div> -->
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
   <h5>forest_night_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1j7NH6k51RosqOWt1Q87IOPUIXeT-HJBP/view?usp=drive_link">Data(18.82GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1lF7Q2Yr_22K7HnX-cyq6ROeEdntnmXwW/view?usp=drive_link">GT_pose</a></h5>
@@ -222,7 +222,7 @@ horizontal: true
   </video>
 </div>
 
-<div style="margin-bottom: -15mm; z-index: 10; position: relative;">
+<!-- <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
   <h5>grass_day_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1TE3AJqXtY9iPn76Ks_spLhRkxYNv8NWU/view?usp=drive_link">Data(20.73GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1Td3zGABJ26tJMn0kxuC7fRbxCJsU9VMW/view?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
@@ -300,9 +300,9 @@ horizontal: true
     <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/parking_lot_night_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</div>
+</div> -->
 
-<div style="margin-bottom: -15mm; z-index: 10; position: relative;">
+<!-- <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
   <h5>residential_area_day_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1rJ8pY-Cod6EoLNYmPJWoJaq_9p2pwxM1/view?usp=drive_link">Data(42.90GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/18AEynqH9Ncl7b035p6Y2bTb-rH69CewK/view?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
@@ -320,7 +320,7 @@ horizontal: true
     <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/residential_area_day_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</div>
+</div> -->
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
   <h5>residential_area_night_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1t5WCJTg8iInNEIv1zhr5TIvaxB2C39o-/view?usp=drive_link">Data(32.93GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1JMLnBpKfA5WR4O0goX_E7S1StpbasYn2/view?usp=drive_link">GT_pose</a></h5>

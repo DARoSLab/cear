@@ -32,7 +32,7 @@ horizontal: true
   </video>
 </div>
 
-<div style="margin-bottom: -15mm; z-index: 10; position: relative;">
+<!-- <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
   <h5>around_building_day_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1yjjTl8oHpjtKL4hNG5-Ek48OJ-iM9Ujo/view?usp=drive_link">Data(24.92GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1XBANMAMS4JZhBasoCPviE2O0UWCqmMt4/view?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
@@ -40,7 +40,7 @@ horizontal: true
     <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/outdoor/around_building_day_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</div>
+</div> -->
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
   <h5>around_building_night_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1OZ3583AxQNDb0PKatjdroS0EA9v_qL84/view?usp=drive_link">Data(20.62GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1bIuxGS7ohPQRRC1hKuVFsTCih7bgN_sh/view?usp=drive_link">GT_pose</a></h5>

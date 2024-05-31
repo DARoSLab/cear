@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://daroslab.github.io/EAGLE/EAGLE/sitemap.xml
+Sitemap: https://daroslab.github.io/cear/cear# the subpath of your site, e.g. /blog/. Leave blank for root/sitemap.xml

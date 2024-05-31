@@ -24,21 +24,21 @@ horizontal: true
 
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>dining_hall_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1o6cf90nuky3UGwmLIJcaxltW957oadGO/view?usp=drive_link">Data(22.41GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1oAq8avVCoCJtuCV1RHN84osPsWix2GfC/view?usp=drive_link">GT_pose</a></h5>
+  <h5>dining_hall_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1Gqa2p8vdFcJHHES2r3CoyCtMBsqCayrf?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/dining_hall_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/dining_hall_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>dining_hall_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1vO8qf2h7T6lNIaYAdhzXeEBCwX4iu5Gz/view?usp=drive_link">Data(32.23GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1Ux-ju92iNCxlD-0dSEar3bpKefiWqia5/view?usp=drive_link">GT_pose</a></h5>
+  <h5>dining_hall_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1AEe9lJ8KBvI_gUl67VWFAEAmPXVJ5qJU?usp=drive_link">Data(32.23GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1Ux-ju92iNCxlD-0dSEar3bpKefiWqia5/view?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/dining_hall_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/dining_hall_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -48,7 +48,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/classroom_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/classroom_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -58,7 +58,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/classroom_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/classroom_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -68,7 +68,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/classroom_hdr_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/classroom_hdr_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -78,7 +78,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/classroom_hdr_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/classroom_hdr_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -88,7 +88,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/classroom_blinking_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/classroom_blinking_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -98,7 +98,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/classroom_blinking_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/classroom_blinking_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -108,7 +108,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/CS_building_3rdfloor_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/CS_building_3rdfloor_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -118,7 +118,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/CS_building_3rdfloor_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/CS_building_3rdfloor_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -128,7 +128,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/home1_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/home1_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -138,7 +138,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/home1_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/home1_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -148,7 +148,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/home2_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/home2_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -158,7 +158,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/home2_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/home2_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -168,7 +168,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/learning_center_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/learning_center_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -178,7 +178,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/learning_center_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/learning_center_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -188,7 +188,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/kitchen_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/kitchen_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -198,7 +198,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/kitchen_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/kitchen_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -208,7 +208,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/kitchen_hdr_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/kitchen_hdr_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -218,7 +218,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/kitchen_hdr_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/kitchen_hdr_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -228,7 +228,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/kitchen_blinking_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/kitchen_blinking_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -238,7 +238,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/kitchen_blinking_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/kitchen_blinking_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -248,7 +248,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/LGRC_building_3rdfloor_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/LGRC_building_3rdfloor_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -258,7 +258,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/LGRC_building_3rdfloor_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/LGRC_building_3rdfloor_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -268,7 +268,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/lab1_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/lab1_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -278,7 +278,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/lab1_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/lab1_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -288,7 +288,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/lab1_hdr_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/lab1_hdr_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -298,7 +298,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/lab1_hdr_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/lab1_hdr_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -308,7 +308,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/lab2_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/lab2_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -318,7 +318,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/lab2_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/lab2_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -328,7 +328,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/lab2_hdr_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/lab2_hdr_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -338,7 +338,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/lab2_hdr_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/lab2_hdr_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -348,7 +348,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env1_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -358,7 +358,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env1_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -368,7 +368,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_dark_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env1_dark_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -378,7 +378,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_dark_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env1_dark_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -388,7 +388,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_blinking_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env1_blinking_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -398,7 +398,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_blinking_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env1_blinking_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -408,7 +408,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env2_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env2_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -418,7 +418,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env2_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env2_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -428,7 +428,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env2_dark_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env2_dark_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -438,7 +438,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env2_dark_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env2_dark_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -448,7 +448,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env2_blinking_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env2_blinking_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -458,7 +458,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env2_blinking_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env2_blinking_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -468,7 +468,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env3_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env3_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -478,7 +478,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env3_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env3_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -488,7 +488,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env3_dark_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env3_dark_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -498,7 +498,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env3_dark_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env3_dark_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -508,7 +508,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env3_blinking_trot.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env3_blinking_trot.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -518,7 +518,7 @@ horizontal: true
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
-    <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env3_blinking_comb.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/indoor/mocap_env3_blinking_comb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>

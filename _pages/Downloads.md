@@ -27,6 +27,29 @@ horizontal: true
 
 * X represents XXX, XXX, XXX sequences.
 
+<table>
+  <tr>
+    <th>列1</th>
+    <th>列2</th>
+    <th>列3</th>
+  </tr>
+  <tr>
+    <td rowspan="3">合并单元格</td>
+    <td>数据2</td>
+    <td>数据3</td>
+    <td>数据4</td>
+  </tr>
+  <tr>
+    <td>数据5</td>
+    <td>数据6</td>
+    <td>数据7</td>
+  </tr>
+  <tr>
+    <td>数据8</td>
+    <td>数据9</td>
+    <td>数据10</td>
+  </tr>
+</table>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {

@@ -41,6 +41,10 @@ horizontal: true
 | Indoor sequences               | classroom_blinking_comb  | Blinking, Slip         |39m/122s | 
 | Indoor sequences               | CS_building_3rdfloor_trot| Slip                   |211m/418s| 
 | Indoor sequences               | CS_building_3rdfloor_comb| Slip                   |287m/587s| 
+| Indoor sequences               | home1_trot               |                        |37m/111s | 
+| Indoor sequences               | home1_comb               |                        |48m/143s | 
+| Indoor sequences               | home2_trot               |                        |35m/120s | 
+| Indoor sequences               | home2_comb               |                        |44m/155s | 
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {

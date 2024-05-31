@@ -11,9 +11,9 @@ horizontal: true
 
 ## All sequences:
 
-- <span style="font-size: 22px;">[All Indoor Sequences](/EAGLE/Downloads/indoorsequence/)</span>
-- <span style="font-size: 22px;">[All Outdoor Sequences](/EAGLE/Downloads/outdoorsequence/)</span>
-- <span style="font-size: 22px;">[All Backflip Sequences](/EAGLE/Downloads/backflipsequence/)</span>
+- <span style="font-size: 22px;">[All Indoor Sequences](/cear/Downloads/indoorsequence/)</span>
+- <span style="font-size: 22px;">[All Outdoor Sequences](/cear/Downloads/outdoorsequence/)</span>
+- <span style="font-size: 22px;">[All Backflip Sequences](/cear/Downloads/backflipsequence/)</span>
 
 
 ### Sensors for each sequence

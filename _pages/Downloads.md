@@ -45,6 +45,8 @@ horizontal: true
 | Indoor sequences               | home1_comb               |                        |48m/143s | 
 | Indoor sequences               | home2_trot               |                        |35m/120s | 
 | Indoor sequences               | home2_comb               |                        |44m/155s | 
+| Indoor sequences               | learning_center_trot     | Slip                   |140m/242s| 
+| Indoor sequences               | learning_center_comb     | Slip                   |157m/350s| 
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {

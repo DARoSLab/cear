@@ -56,8 +56,9 @@ Indoor sequences were collected in 13 diverse environments under a range of ligh
 <div style="display: flex; flex-wrap: wrap;">
     <!-- Video 1 -->
     <div style="flex: 32%; text-align: center;">
-        <h5 style="margin-bottom: 10px;">mocap_env1_trot 
-        </h5>
+        <a href="https://drive.google.com/drive/folders/18-jcCgYvvLTEJr_3NSQLenXjc3oVdKRx?usp=drive_link" style="text-decoration: none; color: inherit;">
+            mocap_env1_trot
+        </a>
         <video style="width: 100%; height: auto;" autoplay muted loop>
             <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/indoor/mocap_env1_trot.mp4" type="video/mp4">
             Your browser does not support the video tag.

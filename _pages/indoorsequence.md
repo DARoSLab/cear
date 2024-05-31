@@ -295,7 +295,7 @@ https://drive.google.com/file/d/1Zw_YBF042-ingWrtEaOijFgdSL7oJrVu/view?usp=drive
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>lab1_hdr_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="">Data </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1i89z5a64YvxS1GVQSrF9zjSDLEjOZy-e/view?usp=drive_link">Data(12.71GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1NyZeWc_Cprf31-Du_ImCuEyp3DRJ_ZBc?usp=drive_link">GT_pose</a></h5>
+  <h5>lab1_hdr_comb &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://drive.google.com/file/d/1i89z5a64YvxS1GVQSrF9zjSDLEjOZy-e/view?usp=drive_link">Data(17.77GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1NyZeWc_Cprf31-Du_ImCuEyp3DRJ_ZBc?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>

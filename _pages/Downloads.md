@@ -33,7 +33,7 @@ horizontal: true
 | Indoor sequences               | lab1_comb                | Slip                   |82m/245s | 
 | Indoor sequences               | lab1_hdr_trot            | HDR, Slip              |66m/175s | 
 | Indoor sequences               | lab1_hdr_comb            | Slip                   |81m/217s |  
-| Indoor sequences               | classroom_trot           | HDR, Slip              |28m/88s  | 
+| Indoor sequences               | classroom_trot           | Slip                   |28m/88s  | 
 | Indoor sequences               | classroom_comb           | Slip                   |41m/134s | 
 | Indoor sequences               | classroom_hdr_trot       | HDR, Slip              |28m/79s  | 
 | Indoor sequences               | classroom_hdr_comb       | HDR, Slip              |41m/137s | 
@@ -47,6 +47,12 @@ horizontal: true
 | Indoor sequences               | home2_comb               |                        |44m/155s | 
 | Indoor sequences               | learning_center_trot     | Slip                   |140m/242s| 
 | Indoor sequences               | learning_center_comb     | Slip                   |157m/350s| 
+| Indoor sequences               | kitchen_trot             |                        |22m/85s  | 
+| Indoor sequences               | kitchen_comb             |                        |31m/111s | 
+| Indoor sequences               | kitchen_hdr_trot         | HDR                    |23m/91s  | 
+| Indoor sequences               | kitchen_hdr_comb         | HDR                    |35m/112s | 
+| Indoor sequences               | classroom_blinking_trot  | Blinking               |23m/91s  | 
+| Indoor sequences               | classroom_blinking_comb  | Blinking               |35m/112s | 
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {

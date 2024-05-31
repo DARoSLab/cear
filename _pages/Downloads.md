@@ -51,8 +51,8 @@ horizontal: true
 | Indoor sequences               | kitchen_comb             |                        |31m/111s | 
 | Indoor sequences               | kitchen_hdr_trot         | HDR                    |23m/91s  | 
 | Indoor sequences               | kitchen_hdr_comb         | HDR                    |35m/112s | 
-| Indoor sequences               | classroom_blinking_trot  | Blinking               |23m/91s  | 
-| Indoor sequences               | classroom_blinking_comb  | Blinking               |35m/112s | 
+| Indoor sequences               | classroom_blinking_trot  | Blinking               |22m/93s  | 
+| Indoor sequences               | classroom_blinking_comb  | Blinking               |36m/118s | 
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {

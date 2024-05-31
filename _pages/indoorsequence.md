@@ -165,7 +165,7 @@ https://drive.google.com/file/d/1Zw_YBF042-ingWrtEaOijFgdSL7oJrVu/view?usp=drive
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>learning_center_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/131upKkTWiOAtGoOl8v4QTlHoeixiFa9d?usp=drive_link">Data(15.12GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1mrYqzVYkeIAw370ZVXfP6uoEbDymKKOs/view?usp=drive_link">GT_pose</a></h5>
+  <h5>learning_center_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1i-9KN8OOiC3bqJ3jB5LCjP6kghuW6bVU/view?usp=drive_link">Data(15.12GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/131upKkTWiOAtGoOl8v4QTlHoeixiFa9d?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
@@ -175,7 +175,7 @@ https://drive.google.com/file/d/1Zw_YBF042-ingWrtEaOijFgdSL7oJrVu/view?usp=drive
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>learning_center_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/13z6kBfYIEhaYLMTQHs4eC6CsuRd5FGQv?usp=drive_link">Data(22.32GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1h0WzHrsU3mjk05RhOMF56eYS-S44aPbX/view?usp=drive_link">GT_pose</a></h5>
+  <h5>learning_center_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1FWjznBtiP8DYiO891t2iLvzGWr9c8Xxl/view?usp=drive_link">Data(22.32GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/13z6kBfYIEhaYLMTQHs4eC6CsuRd5FGQv?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
@@ -185,7 +185,7 @@ https://drive.google.com/file/d/1Zw_YBF042-ingWrtEaOijFgdSL7oJrVu/view?usp=drive
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>kitchen_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1rxG5vtUOQh1QTYHRV5uLg3tYbM9aegPQ?usp=drive_link">Data(3.62GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_pose</h5>
+  <h5>kitchen_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1AuXDQQVhQtmI64smCeQsO_QsBHX4F0mG/view?usp=drive_link">Data(3.62GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1rxG5vtUOQh1QTYHRV5uLg3tYbM9aegPQ?usp=drive_link">GT_pose</a>a</h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
@@ -195,7 +195,7 @@ https://drive.google.com/file/d/1Zw_YBF042-ingWrtEaOijFgdSL7oJrVu/view?usp=drive
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>kitchen_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1DCeTPxKWWp_3FIEOFHEDr0GGj5Rn42qP?usp=drive_link">Data(5.13GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; GT_pose</h5>
+  <h5>kitchen_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1nSd4n-5w5XxXG5nEq4tU0abYVNyBkDAr/view?usp=drive_link">Data(5.13GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1nSd4n-5w5XxXG5nEq4tU0abYVNyBkDAr/view?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>

@@ -37,8 +37,8 @@ horizontal: true
 | Indoor sequences               | classroom_comb         | Slip                   |41m/134s| 
 | Indoor sequences               | classroom_hdr_trot     | HDR, Slip              |28m/79s | 
 | Indoor sequences               | classroom_hdr_comb     | HDR, Slip              |41m/137s| 
-| Indoor sequences               | classroom_blinking_trot| Blinking, Slip         |28m/79s | 
-| Indoor sequences               | classroom_blinking_comb| Blinking, Slip         |41m/137s| 
+| Indoor sequences               | classroom_blinking_trot| Blinking, Slip         |28m/81s | 
+| Indoor sequences               | classroom_blinking_comb| Blinking, Slip         |39m/122s| 
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {

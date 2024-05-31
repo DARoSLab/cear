@@ -27,18 +27,18 @@ horizontal: true
 
 * X represents XXX, XXX, XXX sequences.
 
-|                                |       Sequence           |         Challenge      |Length | 
-| ------------------------------ |  ---------------------   | ---------------------- | ----- |
-| Indoor sequences               | lab1_trot                | Slip                   |65m/159s| 
-| Indoor sequences               | lab1_comb                | Slip                   |82m/245s| 
-| Indoor sequences               | lab1_hdr_trot            | HDR, Slip              |66m/175s| 
-| Indoor sequences               | lab1_hdr_comb            | Slip                   |81m/217s| 
-| Indoor sequences               | classroom_trot           | HDR, Slip              |28m/88s | 
-| Indoor sequences               | classroom_comb           | Slip                   |41m/134s| 
-| Indoor sequences               | classroom_hdr_trot       | HDR, Slip              |28m/79s | 
-| Indoor sequences               | classroom_hdr_comb       | HDR, Slip              |41m/137s| 
-| Indoor sequences               | classroom_blinking_trot  | Blinking, Slip         |28m/81s | 
-| Indoor sequences               | classroom_blinking_comb  | Blinking, Slip         |39m/122s| 
+|                                |       Sequence           |         Challenge      |Length  | 
+| ------------------------------ |  ---------------------   | ---------------------- | -----  |
+| Indoor sequences               | lab1_trot                | Slip                   |65m/159s | 
+| Indoor sequences               | lab1_comb                | Slip                   |82m/245s | 
+| Indoor sequences               | lab1_hdr_trot            | HDR, Slip              |66m/175s | 
+| Indoor sequences               | lab1_hdr_comb            | Slip                   |81m/217s |  
+| Indoor sequences               | classroom_trot           | HDR, Slip              |28m/88s  | 
+| Indoor sequences               | classroom_comb           | Slip                   |41m/134s | 
+| Indoor sequences               | classroom_hdr_trot       | HDR, Slip              |28m/79s  | 
+| Indoor sequences               | classroom_hdr_comb       | HDR, Slip              |41m/137s | 
+| Indoor sequences               | classroom_blinking_trot  | Blinking, Slip         |28m/81s  | 
+| Indoor sequences               | classroom_blinking_comb  | Blinking, Slip         |39m/122s | 
 | Indoor sequences               | CS_building_3rdfloor_trot| Slip                   |211m/418s| 
 | Indoor sequences               | CS_building_3rdfloor_comb| Slip                   |287m/587s| 
 <script>

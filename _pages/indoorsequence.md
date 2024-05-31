@@ -275,7 +275,7 @@ horizontal: true
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>lab1_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1h2KYMOZgO7GdEG4dnCaOe8kMEnN7M4gQ/view?usp=drive_link">Data(10.69GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1BNwF9xghroyRYLea2LU_OZM-eElsvoTk?usp=drive_link">GT_pose</a></h5>
+  <h5>lab1_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1h2KYMOZgO7GdEG4dnCaOe8kMEnN7M4gQ/view?usp=drive_link">Data(14.40GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1BNwF9xghroyRYLea2LU_OZM-eElsvoTk?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
@@ -285,7 +285,7 @@ horizontal: true
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>lab1_hdr_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1B8Iaz5rQuja5IAyVXhG7lcNmgk6Yn6V5/view?usp=drive_link">Data(10.11GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1AD04tN6YeztwvteGdxZop2vEbruG2pRO?usp=drive_link">GT_pose</a></h5>
+  <h5>lab1_hdr_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1B8Iaz5rQuja5IAyVXhG7lcNmgk6Yn6V5/view?usp=drive_link">Data(14.14GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1AD04tN6YeztwvteGdxZop2vEbruG2pRO?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
@@ -325,7 +325,7 @@ horizontal: true
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>lab2_hdr_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1OFz_KvkjJg_18DSZWYMCHO7r0gQ2DjWr/view?usp=drive_link">Data(6.94GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1eq1F_HlrI2vNBWjdwCjkBjlNCLNXSy7o?usp=drive_link">GT_pose</a></h5>
+  <h5>lab2_hdr_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1OFz_KvkjJg_18DSZWYMCHO7r0gQ2DjWr/view?usp=drive_link">Data(9.66GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1eq1F_HlrI2vNBWjdwCjkBjlNCLNXSy7o?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
@@ -335,7 +335,7 @@ horizontal: true
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>lab2_hdr_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/16j_nU0fCL4yMOlEH0R7Q4ne7TB4BrBgx/view?usp=drive_link">Data(12.71GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1n7r6KceWTqds94FU_YBJ949wvMiOwenf?usp=drive_link">GT_pose</a></h5>
+  <h5>lab2_hdr_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/16j_nU0fCL4yMOlEH0R7Q4ne7TB4BrBgx/view?usp=drive_link">Data(13.51GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1n7r6KceWTqds94FU_YBJ949wvMiOwenf?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>

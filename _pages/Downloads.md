@@ -83,6 +83,30 @@ horizontal: true
 | Backflip             |env3_backflip2 |  Ag                 |11m/125s|
 | Backflip             |env4_backflip1 |  Ag                 |11m/97s| 
 | Backflip             |env4_backflip2 |  Ag                 |11m/105s|
+| Indoor sequences               | lab2_trot                | Slip                   |44m/131s| 
+| Indoor sequences               | lab2_comb                | Slip                   |56m/183s | 
+| Indoor sequences               | lab2_hdr_trot            | HDR, Slip              |44m/120s | 
+| Indoor sequences               | lab2_hdr_comb            | Slip                   |53m/167s |  
+| Indoor sequences               |dining_hall_trot| Dyn                  |199m/341s| 
+| Indoor sequences               | dining_hall_comb| Dyn                   |224m/471s| 
+| Indoor sequences               | mocap_env1_trot           | Slip                   |32m/102s  | 
+| Indoor sequences               | mocap_env1_comb           | Slip                   |54m/170s | 
+| Indoor sequences               | mocap_dark_env1_trot           | Dark, Slip                  |33m/108s  | 
+| Indoor sequences               | mocap_dark_env1_comb           | Dark, Slip                  |51/155s | 
+| Indoor sequences               | mocap_blinking_env1_trot           | Blinking, Slip                  |34m/93s  | 
+| Indoor sequences               | mocap_blinking_env1_comb           | Blinking, Slip                  |43m/122s | 
+| Indoor sequences               | mocap_env2_trot           | Slip                   |31m/100s  | 
+| Indoor sequences               | mocap_env2_comb           | Slip                   |47m/133s | 
+| Indoor sequences               | mocap_dark_env2_trot           | Dark, Slip                  |32m/120s  | 
+| Indoor sequences               | mocap_dark_env2_comb           | Dark, Slip                  |46/141s | 
+| Indoor sequences               | mocap_blinking_env2_trot           | Blinking, Slip                  |31m/118s  | 
+| Indoor sequences               | mocap_blinking_env2_comb           | Blinking, Slip                  |44m/131s | 
+| Indoor sequences               | mocap_env3_trot           | Slip                   |31m/118s  | 
+| Indoor sequences               | mocap_env3_comb           | Slip                   |51m/158s | 
+| Indoor sequences               | mocap_dark_env3_trot           | Dark, Slip                  |31m/110s  | 
+| Indoor sequences               | mocap_dark_env3_comb           | Dark, Slip                  |54/178s | 
+| Indoor sequences               | mocap_blinking_env3_trot           | Blinking, Slip                  |31m/121s  | 
+| Indoor sequences               | mocap_blinking_env3_comb           | Blinking, Slip                  |49m/147s | 
 
 
 <script>

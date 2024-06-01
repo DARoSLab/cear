@@ -55,6 +55,26 @@ horizontal: true
 | Indoor sequences               | classroom_blinking_comb  | Blinking               |36m/118s | 
 | Indoor sequences               | LGRC_building_3rdfloor_trot| Slip                   |190m/384s| 
 | Indoor sequences               | LGRC_building_3rdfloor_comb| Slip                   |255m/509s| 
+| Outdoor sequences              |around_building_day_trot | Dyn, Sun                  |422m/564s| 
+| Outdoor sequences              |around_building_day_comb | Dyn                 |414m/469s| 
+| Outdoor sequences              |around_building_night_trot | Dark                 |387m/366s| 
+| Outdoor sequences              |around_building_night_comb | Dark                 |422m/564s| 
+| Outdoor sequences              |between_building_day_trot | Sun                  |155m/200s| 
+| Outdoor sequences              |between_building_day_comb | Sun                 |414m/469s| 
+| Outdoor sequences              |between_building_night_trot | Dark                 |156m/193s| 
+| Outdoor sequences              |between_building_night_comb | Dark                 |169m/282s| 
+| Outdoor sequences              |downtown1_day_trot | Dark, Dyn                 |241m/296s| 
+| Outdoor sequences              |downtown1_day_comb | Dyn                  |269m/473s| 
+| Outdoor sequences              |downtown1_night_trot |  Dark, Dyn                |243m/282s| 
+| Outdoor sequences              |downtown1_night_comb |  Dark, Dyn                 |266m/424s| 
+| Outdoor sequences              |downtown2_day_trot | Dark, Dyn                 |187m/272s| 
+| Outdoor sequences              |downtown2_day_comb | Dyn                  |190m/320s| 
+| Outdoor sequences              |downtown2_night_trot |  Dark, Dyn                |174m/196s| 
+| Outdoor sequences              |downtown2_night_comb |  Dark, Dyn                 |199m/451s| 
+| Outdoor sequences              |forest_day_trot | Slip                |220m/249s| 
+| Outdoor sequences              |forest_day_comb | Slip                |230m/321s| 
+| Outdoor sequences              |forest_night_trot |  Slip                |213m/270s| 
+| Outdoor sequences              |forest_night_comb |  Slip                 |236m/376s| 
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {

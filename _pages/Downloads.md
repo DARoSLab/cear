@@ -127,6 +127,14 @@ horizontal: true
 | Outdoor sequences              |sidewalk2_area_day_comb |              |682m/1127s| 
 | Outdoor sequences              |sidewalk2_area_night_trot |  Dark              |724m/646s| 
 | Outdoor sequences              |sidewalk2_area_night_comb |  Dark, Frog                |687m/1114s| 
+| Backflip             |env5_backflip1 |  Ag                 |11m/104s| 
+| Backflip             |env5_backflip2 |  Ag                 |11m/76s| 
+| Backflip             |env6_backflip1 |  Ag                 |10m/82s| 
+| Backflip             |env6_backflip2 |  Ag                 |10m/80s| 
+| Backflip             |env7_backflip1 |  Ag                 |11m/84s| 
+| Backflip             |env7_backflip2 |  Ag                 |11m/90s|
+| Backflip             |env8_backflip1 |  Ag                 |11m/78s| 
+| Backflip             |env8_backflip2 |  Ag                 |11m/79s|
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {

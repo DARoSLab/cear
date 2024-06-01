@@ -107,6 +107,20 @@ horizontal: true
 | Indoor sequences               | mocap_dark_env3_comb           | Dark, Slip                  |54/178s | 
 | Indoor sequences               | mocap_blinking_env3_trot           | Blinking, Slip                  |31m/121s  | 
 | Indoor sequences               | mocap_blinking_env3_comb           | Blinking, Slip                  |49m/147s | 
+| Outdoor sequences              |grass2_day_trot | Feat, Sun, Slip                 |261m/387s| 
+| Outdoor sequences              |grass2_day_comb | Feat, Sun, Slip                 |285m/533s| 
+| Outdoor sequences              |grass2_night_trot |  Feat, Slip               |268m/292s| 
+| Outdoor sequences              |grass2_night_comb |  Feat, Slip                 |287m/395s| 
+| Outdoor sequences              |parking_lot2_day_trot | Feat               |460m/436s| 
+| Outdoor sequences              |parking_lot2_day_comb | Feat               |486m/609s| 
+| Outdoor sequences              |parking_lot2_night_trot |  Dark, Feat               |461m/379s| 
+| Outdoor sequences              |parking_lot2_night_comb |  Dark, Feat, Fog                 |508m/820s| 
+
+| Outdoor sequences              |residential_area_day_trot |              |621m/701s| 
+| Outdoor sequences              |residential_area_day_comb |              |655m/792s| 
+| Outdoor sequences              |residential_area_night_trot |  Dark, Dyn               |655m/792s| 
+| Outdoor sequences              |residential_area_night_comb |  Dark, Feat, Dyn                 |655m/792s| 
+
 
 
 <script>

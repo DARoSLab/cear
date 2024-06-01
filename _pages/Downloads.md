@@ -115,13 +115,18 @@ horizontal: true
 | Outdoor sequences              |parking_lot2_day_comb | Feat               |486m/609s| 
 | Outdoor sequences              |parking_lot2_night_trot |  Dark, Feat               |461m/379s| 
 | Outdoor sequences              |parking_lot2_night_comb |  Dark, Feat, Fog                 |508m/820s| 
-
 | Outdoor sequences              |residential_area_day_trot |              |621m/701s| 
 | Outdoor sequences              |residential_area_day_comb |              |655m/792s| 
 | Outdoor sequences              |residential_area_night_trot |  Dark, Dyn               |655m/792s| 
-| Outdoor sequences              |residential_area_night_comb |  Dark, Feat, Dyn                 |655m/792s| 
-
-
+| Outdoor sequences              |residential_area_night_comb |  Dark,  Dyn                 |655m/792s| 
+| Outdoor sequences              |sidewalk1_area_day_trot |              |133m/127s| 
+| Outdoor sequences              |sidewalk1_area_day_comb |              |143m/180s| 
+| Outdoor sequences              |sidewalk1_area_night_trot |  Dark              |137m/163s| 
+| Outdoor sequences              |sidewalk1_area_night_comb |  Dark                |142m/192s| 
+| Outdoor sequences              |sidewalk2_area_day_trot |              |579m/610s| 
+| Outdoor sequences              |sidewalk2_area_day_comb |              |682m/1127s| 
+| Outdoor sequences              |sidewalk2_area_night_trot |  Dark              |724m/646s| 
+| Outdoor sequences              |sidewalk2_area_night_comb |  Dark, Frog                |687m/1114s| 
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {

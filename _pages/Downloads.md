@@ -75,6 +75,15 @@ horizontal: true
 | Outdoor sequences              |forest_day_comb | Slip                |230m/321s| 
 | Outdoor sequences              |forest_night_trot |  Slip                |213m/270s| 
 | Outdoor sequences              |forest_night_comb |  Slip                 |236m/376s| 
+| Backflip             |env1_backflip1 |  Ag                 |11m/111s| 
+| Backflip             |env1_backflip2 |  Ag                 |11m/123s| 
+| Backflip             |env2_backflip1 |  Ag                 |10m/90s| 
+| Backflip             |env2_backflip2 |  Ag                 |10m/88s| 
+| Backflip             |env3_backflip1 |  Ag                 |11m/119s| 
+| Backflip             |env3_backflip2 |  Ag                 |11m/125s|
+| Backflip             |env4_backflip1 |  Ag                 |11m/97s| 
+| Backflip             |env4_backflip2 |  Ag                 |11m/105s|
+
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {

@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Event dataset of an AGile-LEgged robot
+subtitle: Comprehensive Event camera dataset for rapid perception of Agile quadruped Robots
 
 # profile:
 #   align: right
@@ -20,11 +20,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
 
-The First Event Camera Dataset Gathered by an Agile Quadruped Robot.
+The First Comprehensive Event Camera Dataset Gathered by an Agile Quadruped Robot for Rapid Perception.
 
 
 <video id="intro_video" style="width: 100%; height: auto;" controls loop>
-  <source src="https://raw.githubusercontent.com/DARoSLab/EAGLE/main/assets/video/home/EAGLE.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/DARoSLab/cear/main/assets/video/home/CEAR.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

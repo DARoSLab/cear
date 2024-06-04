@@ -11,9 +11,17 @@ horizontal: true
 
 ## All sequences:
 
-- <span style="font-size: 22px;">[All Indoor Sequences <--- Click to check details](/cear/Downloads/indoorsequence/)</span>
-- <span style="font-size: 22px;">[All Outdoor Sequences <--- Click to check details](/cear/Downloads/outdoorsequence/)</span>
-- <span style="font-size: 22px;">[All Backflip Sequences <--- Click to check details](/cear/Downloads/backflipsequence/)</span>
+- <span style="font-size: 22px;">[All Indoor Sequences <--- Click to download](/cear/Downloads/indoorsequence/)</span>
+- <span style="font-size: 22px;">[All Outdoor Sequences <--- Click to download](/cear/Downloads/outdoorsequence/)</span>
+- <span style="font-size: 22px;">[All Backflip Sequences <--- Click to download](/cear/Downloads/backflipsequence/)</span>
+
+---
+
+Note: All ground-truth poses have been **synchronized** with the event camera's clock source. These ground-truth poses are represented in MoCap frame (obtained by OptiTrack) or LiDAR frames (obtained by FasterLIO). Other sensors' data is **not synchronized**, time offset parameters are [here](/EAGLE/Calibration/).
+
+We also provide utils tools to convert from our data to ROS bag format: [here](https://github.com/DARoSLab/eagle_dataset_utils)
+
+---
 
 
 ### Sensors for each sequence
@@ -55,34 +63,6 @@ horizontal: true
 | Indoor sequences               | classroom_blinking_comb  | Blinking               |36m/118s | 
 | Indoor sequences               | LGRC_building_3rdfloor_trot| Slip                   |190m/384s| 
 | Indoor sequences               | LGRC_building_3rdfloor_comb| Slip                   |255m/509s| 
-| Outdoor sequences              |around_building_day_trot | Dyn, Sun                  |422m/564s| 
-| Outdoor sequences              |around_building_day_comb | Dyn                 |414m/469s| 
-| Outdoor sequences              |around_building_night_trot | Dark                 |387m/366s| 
-| Outdoor sequences              |around_building_night_comb | Dark                 |422m/564s| 
-| Outdoor sequences              |between_building_day_trot | Sun                  |155m/200s| 
-| Outdoor sequences              |between_building_day_comb | Sun                 |414m/469s| 
-| Outdoor sequences              |between_building_night_trot | Dark                 |156m/193s| 
-| Outdoor sequences              |between_building_night_comb | Dark                 |169m/282s| 
-| Outdoor sequences              |downtown1_day_trot | Dark, Dyn                 |241m/296s| 
-| Outdoor sequences              |downtown1_day_comb | Dyn                  |269m/473s| 
-| Outdoor sequences              |downtown1_night_trot |  Dark, Dyn                |243m/282s| 
-| Outdoor sequences              |downtown1_night_comb |  Dark, Dyn                 |266m/424s| 
-| Outdoor sequences              |downtown2_day_trot | Dark, Dyn                 |187m/272s| 
-| Outdoor sequences              |downtown2_day_comb | Dyn                  |190m/320s| 
-| Outdoor sequences              |downtown2_night_trot |  Dark, Dyn                |174m/196s| 
-| Outdoor sequences              |downtown2_night_comb |  Dark, Dyn                 |199m/451s| 
-| Outdoor sequences              |forest_day_trot | Slip                |220m/249s| 
-| Outdoor sequences              |forest_day_comb | Slip                |230m/321s| 
-| Outdoor sequences              |forest_night_trot |  Slip                |213m/270s| 
-| Outdoor sequences              |forest_night_comb |  Slip                 |236m/376s| 
-| Backflip             |env1_backflip1 |  Ag                 |11m/111s| 
-| Backflip             |env1_backflip2 |  Ag                 |11m/123s| 
-| Backflip             |env2_backflip1 |  Ag                 |10m/90s| 
-| Backflip             |env2_backflip2 |  Ag                 |10m/88s| 
-| Backflip             |env3_backflip1 |  Ag                 |11m/119s| 
-| Backflip             |env3_backflip2 |  Ag                 |11m/125s|
-| Backflip             |env4_backflip1 |  Ag                 |11m/97s| 
-| Backflip             |env4_backflip2 |  Ag                 |11m/105s|
 | Indoor sequences               | lab2_trot                | Slip                   |44m/131s| 
 | Indoor sequences               | lab2_comb                | Slip                   |56m/183s | 
 | Indoor sequences               | lab2_hdr_trot            | HDR, Slip              |44m/120s | 
@@ -107,6 +87,26 @@ horizontal: true
 | Indoor sequences               | mocap_dark_env3_comb           | Dark, Slip                  |54/178s | 
 | Indoor sequences               | mocap_blinking_env3_trot           | Blinking, Slip                  |31m/121s  | 
 | Indoor sequences               | mocap_blinking_env3_comb           | Blinking, Slip                  |49m/147s | 
+| Outdoor sequences              |around_building_day_trot | Dyn, Sun                  |422m/564s| 
+| Outdoor sequences              |around_building_day_comb | Dyn                 |414m/469s| 
+| Outdoor sequences              |around_building_night_trot | Dark                 |387m/366s| 
+| Outdoor sequences              |around_building_night_comb | Dark                 |422m/564s| 
+| Outdoor sequences              |between_building_day_trot | Sun                  |155m/200s| 
+| Outdoor sequences              |between_building_day_comb | Sun                 |414m/469s| 
+| Outdoor sequences              |between_building_night_trot | Dark                 |156m/193s| 
+| Outdoor sequences              |between_building_night_comb | Dark                 |169m/282s| 
+| Outdoor sequences              |downtown1_day_trot | Dark, Dyn                 |241m/296s| 
+| Outdoor sequences              |downtown1_day_comb | Dyn                  |269m/473s| 
+| Outdoor sequences              |downtown1_night_trot |  Dark, Dyn                |243m/282s| 
+| Outdoor sequences              |downtown1_night_comb |  Dark, Dyn                 |266m/424s| 
+| Outdoor sequences              |downtown2_day_trot | Dark, Dyn                 |187m/272s| 
+| Outdoor sequences              |downtown2_day_comb | Dyn                  |190m/320s| 
+| Outdoor sequences              |downtown2_night_trot |  Dark, Dyn                |174m/196s| 
+| Outdoor sequences              |downtown2_night_comb |  Dark, Dyn                 |199m/451s| 
+| Outdoor sequences              |forest_day_trot | Slip                |220m/249s| 
+| Outdoor sequences              |forest_day_comb | Slip                |230m/321s| 
+| Outdoor sequences              |forest_night_trot |  Slip                |213m/270s| 
+| Outdoor sequences              |forest_night_comb |  Slip                 |236m/376s| 
 | Outdoor sequences              |grass2_day_trot | Feat, Sun, Slip                 |261m/387s| 
 | Outdoor sequences              |grass2_day_comb | Feat, Sun, Slip                 |285m/533s| 
 | Outdoor sequences              |grass2_night_trot |  Feat, Slip               |268m/292s| 
@@ -127,6 +127,14 @@ horizontal: true
 | Outdoor sequences              |sidewalk2_area_day_comb |              |682m/1127s| 
 | Outdoor sequences              |sidewalk2_area_night_trot |  Dark              |724m/646s| 
 | Outdoor sequences              |sidewalk2_area_night_comb |  Dark, Frog                |687m/1114s| 
+| Backflip             |env1_backflip1 |  Ag                 |11m/111s| 
+| Backflip             |env1_backflip2 |  Ag                 |11m/123s| 
+| Backflip             |env2_backflip1 |  Ag                 |10m/90s| 
+| Backflip             |env2_backflip2 |  Ag                 |10m/88s| 
+| Backflip             |env3_backflip1 |  Ag                 |11m/119s| 
+| Backflip             |env3_backflip2 |  Ag                 |11m/125s|
+| Backflip             |env4_backflip1 |  Ag                 |11m/97s| 
+| Backflip             |env4_backflip2 |  Ag                 |11m/105s|
 | Backflip             |env5_backflip1 |  Ag                 |11m/104s| 
 | Backflip             |env5_backflip2 |  Ag                 |11m/76s| 
 | Backflip             |env6_backflip1 |  Ag                 |10m/82s| 
@@ -147,19 +155,9 @@ horizontal: true
   });
 </script>
 
----
 
-Note: All ground-truth poses have been temporally **synchronized** with the event camera's clock source. The ground-truth poses are represented in MoCap frame (obtained by OptiTrack) or LiDAR frames (obtained by FasterLIO).
-
-Notes: All ground-truth poses have been **synchronized** with the event camera's clock source. These ground-truth poses are represented either in the MoCap frame, as obtained by OptiTrack, or in the LiDAR frame, as obtained by FasterLIO. Other sensors' data is **not synchronized**, time offset parameters are [here](/EAGLE/Calibration/).
-
-
-We also provide utils tools to convert from our data to ROS bag format: [here](https://github.com/DARoSLab/eagle_dataset_utils)
-
----
 ### Indoor sequence example
 Indoor sequences were collected in 13 diverse environments under a range of lighting conditions: well-lit, dark, HDR, and blinking. \*_trot means a trot-only gait and *_comb means a combination of trotting, bounding, and pronking gaits.
-
 
 <div style="display: flex; flex-wrap: wrap;">
     <!-- Video 1 -->

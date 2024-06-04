@@ -11,9 +11,9 @@ horizontal: true
 
 ## All sequences:
 
-- <span style="font-size: 22px;">[All Indoor Sequences](/cear/Downloads/indoorsequence/)</span>
-- <span style="font-size: 22px;">[All Outdoor Sequences](/cear/Downloads/outdoorsequence/)</span>
-- <span style="font-size: 22px;">[All Backflip Sequences](/cear/Downloads/backflipsequence/)</span>
+- <span style="font-size: 22px;">[All Indoor Sequences <--- Click to check details](/cear/Downloads/indoorsequence/)</span>
+- <span style="font-size: 22px;">[All Outdoor Sequences <--- Click to check details](/cear/Downloads/outdoorsequence/)</span>
+- <span style="font-size: 22px;">[All Backflip Sequences <--- Click to check details](/cear/Downloads/backflipsequence/)</span>
 
 
 ### Sensors for each sequence
@@ -25,7 +25,7 @@ horizontal: true
 | Outdoor sequences X            | ❌                     | ✔️                      | ✔️     | ✔️                                 |
 | Backflip sequences             | ❌                     | ✔️                      | ❌     | ✔️                                 |
 
-* X represents XXX, XXX, XXX sequences.
+* X represents around-building_day_comb, between-buildings_day_comb, downtown1_day_comb, downtown1_day_trot, downtown2_day_comb, downtown2_day_trot, forest_day_comb, forest_day_trot, grass1_day_comb, grass1_day_trot, grass1_night_comb, grass1_night_trot, parking-lot1_day_comb, parking-lot1_day_trot, parking-lot1_night_comb, parking-lot1_night_trot, residential-area_day_comb, residential-area_day_trot sequences.
 
 |                                |       Sequence           |         Challenge      |Length  | 
 | ------------------------------ |  ---------------------   | ---------------------- | -----  |

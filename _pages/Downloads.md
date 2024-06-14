@@ -17,12 +17,18 @@ horizontal: true
 
 ---
 
-Data Structure:
+**Data Structure:**
+
 Event: event_*.aedat4   * represents the type of event camera
+
 IMU: vectornav.txt   timestamp(us) gx(rad/s) gy(rad/s) gz(rad/s) ax(m/s^2) ay(m/s^2) az(m/s^2) magx magy magz qw qx qy qz
+
 RealSense: realsense_timestamp.txt    timestamp(us)_depth_rgb.png timestamp_depth_event.png timestamp_rgb.png ...
+
 LiDAR: lidar.bag    type: sensor_msgs/PointCloud2 topic: /velodyne_points
+
 MoCap: MoCap.txt or FasterLIO.txt    timestamp(s) x y z qx qy qz qw
+
 Joint: mini_cheetah_joint.txt    timestamp(us) FrontRight(abd hip knee) FrontLeft(abd hip knee) HindRight(abd hip knee) HindLeft(abd hip knee)  All in rad unit
 
 *raw_rgb* stores unprocessed RGB images from RealSense camera and *rgb* folder stores processed (smoothed) RGB images. *raw_depth* stores depth images in depth camera's frame and *depth* folder stores projected depth images in RGB and event cameras frame.

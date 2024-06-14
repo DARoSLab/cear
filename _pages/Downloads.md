@@ -36,6 +36,72 @@ Joint: mini_cheetah_joint.txt    timestamp(us) FrontRight(abd hip knee) FrontLef
 
 ---
 
+## Directory Tree
+
+CEAR/
+├── indoor/
+│   ├── mocap1_well-lit_trot/
+│   │   ├── event_*.aedat4
+│   │   ├── vectornav.txt
+│   │   ├── realsense_timestamp.txt
+│   │   ├── lidar.bag
+│   │   ├── mini_cheetah_joint.txt
+│   │   ├── MoCap.txt or FasterLIO.txt
+│   └── ...
+├── outdoor/
+│   ├── downtown1_day_comb/
+│   │   ├── event_*.aedat4
+│   │   ├── vectornav.txt
+│   │   ├── realsense_timestamp.txt
+│   │   ├── lidar.bag
+│   │   ├── mini_cheetah_joint.txt
+│   │   ├── FasterLIO.txt
+│   └── ...
+├── backflip/
+│   ├── env1_backflip1/
+│   │   ├── event_*.aedat4
+│   │   ├── vectornav.txt
+│   │   ├── realsense_timestamp.txt
+│   │   ├── mini_cheetah_joint.txt
+│   │   ├── MoCap.txt
+│   └── ...
+
+
+# Data Structure
+
+- **Event:**
+  - `event_*.aedat4` (* represents the type of event camera)
+
+- **IMU:**
+  - `vectornav.txt`
+    - `timestamp(us) gx(rad/s) gy(rad/s) gz(rad/s) ax(m/s^2) ay(m/s^2) az(m/s^2) magx magy magz qw qx qy qz`
+
+- **RealSense:**
+  - `realsense_timestamp.txt`
+    - `timestamp(us)_depth_rgb.png timestamp_depth_event.png timestamp_rgb.png …`
+
+- **LiDAR:**
+  - `lidar.bag`
+    - Type: `sensor_msgs/PointCloud2`
+    - Topic: `/velodyne_points`
+
+- **MoCap:**
+  - `MoCap.txt` or `FasterLIO.txt`
+    - `timestamp(s) x y z qx qy qz qw`
+
+- **Joint:**
+  - `mini_cheetah_joint.txt`
+    - `timestamp(us) FrontRight(abd hip knee) FrontLeft(abd hip knee) HindRight(abd hip knee) HindLeft(abd hip knee) All in rad unit`
+
+- **Raw and Processed Data:**
+  - `raw_rgb` stores unprocessed RGB images from RealSense camera.
+  - `rgb` folder stores processed (smoothed) RGB images.
+  - `raw_depth` stores depth images in depth camera’s frame.
+  - `depth` folder stores projected depth images in RGB and event cameras frame.
+
+
+---
+
 Note: All ground-truth poses have been **synchronized** with the event camera's clock source. These ground-truth poses are represented in MoCap frame (obtained by OptiTrack) or LiDAR frames (obtained by FasterLIO). Other sensors' data is **not synchronized**, time offset parameters are [here](/EAGLE/Calibration/).
 
 We also provide utils tools to convert from our data to ROS bag format: [here](https://github.com/DARoSLab/eagle_dataset_utils)

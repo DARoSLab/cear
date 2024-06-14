@@ -16,64 +16,8 @@ horizontal: true
 - <span style="font-size: 25px;">[All Backflip Sequences <--- Click to download](/cear/Downloads/backflipsequence/)</span>
 
 ---
-
-**Data Structure:**
-
-Event: event_*.aedat4   * represents the type of event camera
-
-IMU: vectornav.txt   timestamp(us) gx(rad/s) gy(rad/s) gz(rad/s) ax(m/s^2) ay(m/s^2) az(m/s^2) magx magy magz qw qx qy qz
-
-RealSense: realsense_timestamp.txt    timestamp(us)_depth_rgb.png timestamp_depth_event.png timestamp_rgb.png ...
-
-LiDAR: lidar.bag    type: sensor_msgs/PointCloud2 topic: /velodyne_points
-
-MoCap: MoCap.txt or FasterLIO.txt    timestamp(s) x y z qx qy qz qw
-
-Joint: mini_cheetah_joint.txt    timestamp(us) FrontRight(abd hip knee) FrontLeft(abd hip knee) HindRight(abd hip knee) HindLeft(abd hip knee)  All in rad unit
-
-*raw_rgb* stores unprocessed RGB images from RealSense camera and *rgb* folder stores processed (smoothed) RGB images. *raw_depth* stores depth images in depth camera's frame and *depth* folder stores projected depth images in RGB and event cameras frame.
-
-
 ---
-
-## Directory Tree
-
-<details>
-<summary>Click to expand</summary>
-
-```plaintext
-CEAR/
-├── indoor/
-│   ├── mocap1_well-lit_trot/
-│   │   ├── event_dvxplorerlite320.aedat4
-│   │   ├── vectornav.txt
-│   │   ├── realsense_timestamp.txt
-│   │   ├── lidar.bag
-│   │   ├── mini_cheetah_joint.txt
-│   │   ├── MoCap.txt or FasterLIO.txt
-│   └── ...
-├── outdoor/
-│   ├── downtown1_day_comb/
-│   │   ├── event_dvxplorerlite320.aedat4 or event_davis346.aedat4
-│   │   ├── vectornav.txt
-│   │   ├── realsense_timestamp.txt
-│   │   ├── lidar.bag
-│   │   ├── mini_cheetah_joint.txt
-│   │   ├── FasterLIO.txt
-│   └── ...
-├── backflip/
-│   ├── env1_backflip1/
-│   │   ├── event_dvxplorerlite320.aedat4
-│   │   ├── vectornav.txt
-│   │   ├── realsense_timestamp.txt
-│   │   ├── mini_cheetah_joint.txt
-│   │   ├── MoCap.txt
-│   └── ...
-</details>
-```
-
-
-### Data details
+### Directory Tree
 
 - **Event:**
   - `event_*.aedat4` (* represents the type of event camera)
@@ -97,20 +41,14 @@ CEAR/
 
 - **Joint:**
   - `mini_cheetah_joint.txt`
-    - `timestamp(us) FrontRight(abd hip knee) FrontLeft(abd hip knee) HindRight(abd hip knee) HindLeft(abd hip knee) All in rad unit`
+    - `timestamp(us) FrontRight(abd hip knee) FrontLeft(abd hip knee) HindRight(abd hip knee) HindLeft(abd hip knee)` All in rad unit
 
 - **Raw and Processed Data:**
   - `raw_rgb` stores unprocessed RGB images from RealSense camera.
-  - `rgb` folder stores processed (smoothed) RGB images.
-  - `raw_depth` stores depth images in depth camera’s frame.
-  - `depth` folder stores projected depth images in RGB and event cameras frame.
+  - `rgb` folder stores processed (smoothed/noise-free) RGB images.
+  - `raw_depth` stores depth images in **depth** camera’s frame.
+  - `depth` folder stores projected depth images in **RGB** and **event** cameras frame.
 
-
----
-
-Note: All ground-truth poses have been **synchronized** with the event camera's clock source. These ground-truth poses are represented in MoCap frame (obtained by OptiTrack) or LiDAR frames (obtained by FasterLIO). Other sensors' data is **not synchronized**, time offset parameters are [here](/EAGLE/Calibration/).
-
-We also provide utils tools to convert from our data to ROS bag format: [here](https://github.com/DARoSLab/eagle_dataset_utils)
 
 ---
 
@@ -125,6 +63,13 @@ We also provide utils tools to convert from our data to ROS bag format: [here](h
 | Backflip sequences             | ❌                     | ✔️                      | ❌     | ✔️                                 |
 
 * X represents around-building_day_comb, between-buildings_day_comb, downtown1_day_comb, downtown1_day_trot, downtown2_day_comb, downtown2_day_trot, forest_day_comb, forest_day_trot, grass1_day_comb, grass1_day_trot, grass1_night_comb, grass1_night_trot, parking-lot1_day_comb, parking-lot1_day_trot, parking-lot1_night_comb, parking-lot1_night_trot, residential-area_day_comb, residential-area_day_trot sequences.
+
+### Challenges for each seqeuence
+
+we have also identified and categorized the challenging features in the dataset as follows: Agile locomotion (Ag), Dynamic objects (Dyn), High dynamic range (HDR), Darkness (Dark), Direct sunlight (Sun), Blinking light (Blink), Slippery ground (Slip), Featureless regions (Feat), and Foggy weather (Fog)
+
+<details>
+<summary>Click to expand</summary>
 
 |                                |       Sequence           |         Challenge      |Length  | 
 | ------------------------------ |  ---------------------   | ---------------------- | -----  |
@@ -234,6 +179,8 @@ We also provide utils tools to convert from our data to ROS bag format: [here](h
 | Backflip             |env7_backflip2 |  Ag                 |11m/90s|
 | Backflip             |env8_backflip1 |  Ag                 |11m/78s| 
 | Backflip             |env8_backflip2 |  Ag                 |11m/79s|
+</details>
+
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {

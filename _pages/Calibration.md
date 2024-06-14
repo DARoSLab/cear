@@ -9,8 +9,16 @@ horizontal: false
 ---
 
 
-## Time offset parameters (second)
 ---
+
+Note: All ground-truth poses have been **synchronized** with the event camera's clock source. These ground-truth poses are represented in MoCap frame (obtained by OptiTrack) or LiDAR frames (obtained by FasterLIO). Other sensors' data is **not synchronized**, time offset parameters are [here](/EAGLE/Calibration/).
+
+We also provide utils tools to convert from our data to ROS bag format: [here](https://github.com/DARoSLab/eagle_dataset_utils)
+
+
+---
+## Time offset parameters (second)
+
 EventCamera: 0.0
 
 MiniCheetahJoint: 0.004611
@@ -23,8 +31,9 @@ Velodyne: 0.003044
 
 E.g. Time_event = Time_vectornav - 0.004012
 
-## Intrinsic parameters
 ---
+## Intrinsic parameters
+
 ##### DAVIS346 event camera: &nbsp;&nbsp;&nbsp;&nbsp; [result](https://drive.google.com/file/d/1RaBTbBw7ZbvR-TW1HlMCD-Q7zRDQqgjo/view?usp=drive_link)
 
 ##### DVXplorer Lite event camera: &nbsp;&nbsp;&nbsp;&nbsp; [result](https://drive.google.com/file/d/1zG2fZABrEVrqjUQ_EaikEnmEMWwqjdj-/view?usp=drive_link)

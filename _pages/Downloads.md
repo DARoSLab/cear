@@ -52,6 +52,7 @@ horizontal: true
 
 
 &nbsp;<br>
+
 ---
 ### Sensors for each sequence
 
@@ -65,6 +66,7 @@ horizontal: true
 * X represents around-building_day_comb, between-buildings_day_comb, downtown1_day_comb, downtown1_day_trot, downtown2_day_comb, downtown2_day_trot, forest_day_comb, forest_day_trot, grass1_day_comb, grass1_day_trot, grass1_night_comb, grass1_night_trot, parking-lot1_day_comb, parking-lot1_day_trot, parking-lot1_night_comb, parking-lot1_night_trot, residential-area_day_comb, residential-area_day_trot sequences.
 
 &nbsp;<br>
+
 ---
 ### Challenges for each seqeuence
 
@@ -72,6 +74,8 @@ we have also identified and categorized the challenging features in the dataset 
 
 <details>
 <summary>Click to expand</summary>
+
+<br>
 
 |                                |       Sequence           |         Challenge      |Length  | 
 | ------------------------------ |  ---------------------   | ---------------------- | -----  |
@@ -182,6 +186,8 @@ we have also identified and categorized the challenging features in the dataset 
 | Backflip             |env8_backflip1 |  Ag                 |11m/78s| 
 | Backflip             |env8_backflip2 |  Ag                 |11m/79s|
 
+<br>
+
 </details>
 
 
@@ -197,6 +203,7 @@ we have also identified and categorized the challenging features in the dataset 
 </script>
 
 &nbsp;<br>
+
 ---
 ### Indoor sequence example
 Indoor sequences were collected in 13 diverse environments under a range of lighting conditions: well-lit, dark, HDR, and blinking. \*_trot means a trot-only gait and *_comb means a combination of trotting, bounding, and pronking gaits.
@@ -264,6 +271,7 @@ Indoor sequences were collected in 13 diverse environments under a range of ligh
 </div>
 
 &nbsp;<br>
+
 ---
 ### Outdoor sequence example
 The outdoor sequences were captured in 10 distinctive outdoor environments, with four sequences per environment. Each set of four sequences includes variations of two different sets of quadruped gaits (trot-only and combined gaits) under different periods of the day (daytime and nighttime).
@@ -312,6 +320,7 @@ The outdoor sequences were captured in 10 distinctive outdoor environments, with
 </div>
 
 &nbsp;<br>
+
 ---
 ### Backflip sequence example
 

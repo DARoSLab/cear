@@ -72,7 +72,7 @@ horizontal: true
 
 we have also identified and categorized the challenging features in the dataset as follows: Agile locomotion (Ag), Dynamic objects (Dyn), High dynamic range (HDR), Darkness (Dark), Direct sunlight (Sun), Blinking light (Blink), Slippery ground (Slip), Featureless regions (Feat), and Foggy weather (Fog)
 
-- <span style="font-size: 25px;">[Click to check challenges for each sequence <--- Click to download](/cear/Downloads/challenges/)</span>
+- <span style="font-size: 21px;">[Click to check challenges for each sequence](/cear/Downloads/challenges/)</span>
 
 
 <script>

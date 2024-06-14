@@ -18,7 +18,9 @@ horizontal: true
 &nbsp;<br>
 
 ---
-### Directory Tree
+### Data Structure
+
+Below is the data structure for each sequence:
 
 - **Event:**
   - `event_*.aedat4` (* represents the type of event camera)

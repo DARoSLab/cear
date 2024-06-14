@@ -38,10 +38,14 @@ Joint: mini_cheetah_joint.txt    timestamp(us) FrontRight(abd hip knee) FrontLef
 
 ## Directory Tree
 
+<details>
+<summary>Click to expand</summary>
+
+```plaintext
 CEAR/
 ├── indoor/
 │   ├── mocap1_well-lit_trot/
-│   │   ├── event_*.aedat4
+│   │   ├── event_dvxplorerlite320.aedat4
 │   │   ├── vectornav.txt
 │   │   ├── realsense_timestamp.txt
 │   │   ├── lidar.bag
@@ -50,7 +54,7 @@ CEAR/
 │   └── ...
 ├── outdoor/
 │   ├── downtown1_day_comb/
-│   │   ├── event_*.aedat4
+│   │   ├── event_dvxplorerlite320.aedat4 or event_davis346.aedat4
 │   │   ├── vectornav.txt
 │   │   ├── realsense_timestamp.txt
 │   │   ├── lidar.bag
@@ -59,15 +63,17 @@ CEAR/
 │   └── ...
 ├── backflip/
 │   ├── env1_backflip1/
-│   │   ├── event_*.aedat4
+│   │   ├── event_dvxplorerlite320.aedat4
 │   │   ├── vectornav.txt
 │   │   ├── realsense_timestamp.txt
 │   │   ├── mini_cheetah_joint.txt
 │   │   ├── MoCap.txt
 │   └── ...
+</details>
+```
 
 
-# Data Structure
+### Data details
 
 - **Event:**
   - `event_*.aedat4` (* represents the type of event camera)

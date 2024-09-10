@@ -72,7 +72,7 @@ Below is the data structure for each sequence:
 ---
 ### Challenges for each seqeuence
 
-we have also identified and categorized the challenging features in the dataset as follows: Agile locomotion (Ag), Dynamic objects (Dyn), High dynamic range (HDR), Darkness (Dark), Direct sunlight (Sun), Blinking light (Blink), Slippery ground (Slip), Featureless regions (Feat), and Foggy weather (Fog)
+We have also identified and categorized the challenging features in the dataset as follows: Agile locomotion (Ag), Dynamic objects (Dyn), High dynamic range (HDR), Darkness (Dark), Direct sunlight (Sun), Blinking light (Blink), Slippery ground (Slip), Featureless regions (Feat), and Foggy weather (Fog)
 
 - <span style="font-size: 21px;">[Click to check challenges for each sequence](/cear/Downloads/challenges/)</span>
 

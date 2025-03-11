@@ -365,7 +365,7 @@ horizontal: true
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>mocap1_dark_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1XhOw1JKvjOA_MS3WCDh1zr1MZr2jbjK0/view?usp=drive_link">Data(7.88GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/18-jcCgYvvLTEJr_3NSQLenXjc3oVdKRx?usp=drive_link">GT_Pose</a></h5>
+  <h5>mocap1_dark_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1XhOw1JKvjOA_MS3WCDh1zr1MZr2jbjK0/view?usp=drive_link">Data(7.88GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1c3Sr5A9YmJsD0krCBS_ce04ZYmy1G1zd/view?usp=drive_link">GT_Pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>

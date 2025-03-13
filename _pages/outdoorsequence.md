@@ -63,7 +63,7 @@ horizontal: true
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>between-buildings_day_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1-lAcdqn9wcwDVmW4sR0qDVV9N7fCLtG6/view?usp=drive_link">Data(22.57GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1ig2VinByXdwychAmNDhrSnmb1gC56DMw?usp=drive_link">GT_pose</a></h5>
+  <h5>between-buildings_day_trot &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/14MJBit0WLaGRGeQr1E9V6sVE3f7doMCm/view?usp=drive_link">Data(8.24GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1ig2VinByXdwychAmNDhrSnmb1gC56DMw?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>
@@ -73,7 +73,7 @@ horizontal: true
 </div>
 
 <div style="margin-bottom: -15mm; z-index: 10; position: relative;">
-  <h5>between-buildings_day_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1Ehluvom23AI7pg-mlPiTSSBeufJDnb_v/view?usp=drive_link">Data(30.39GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/14-mFwtqxSGeFjiZkx3WqhhxSaCn_9IvY?usp=drive_link">GT_pose</a></h5>
+  <h5>between-buildings_day_comb &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1Ehluvom23AI7pg-mlPiTSSBeufJDnb_v/view?usp=drive_link">Data(13.43GB)</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/14-mFwtqxSGeFjiZkx3WqhhxSaCn_9IvY?usp=drive_link">GT_pose</a></h5>
 </div>
 <div style="margin-top: -15mm;">
   <video id="myVideo" width="640" height="360" autoplay muted loop>

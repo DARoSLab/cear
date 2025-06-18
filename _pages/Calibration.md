@@ -11,7 +11,7 @@ horizontal: false
 
 ---
 
-Note: All ground-truth poses have been **synchronized** with the event camera's clock source. These ground-truth poses are represented in MoCap frame (obtained by OptiTrack) or LiDAR frames (obtained by FasterLIO). Other sensors' data is **not synchronized**, time offset parameters are [here](/EAGLE/Calibration/).
+Note: All ground-truth poses have been **synchronized** with the event camera's clock source. These ground-truth poses are represented in MoCap frame (obtained by OptiTrack) or LiDAR frames (obtained by FasterLIO). Other sensors' data is **not synchronized**, time offset parameters are [here](/CEAR/Calibration/).
 
 We also provide utils tools to convert from our data to ROS bag format: [here](https://github.com/DARoSLab/eagle_dataset_utils)
 
